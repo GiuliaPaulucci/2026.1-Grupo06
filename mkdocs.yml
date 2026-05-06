@@ -56,7 +56,7 @@ nav:
       - Personas:
           - Geral: analise-de-requisitos/personas/personas.md
           - Painel Educacional: analise-de-requisitos/personas/persona-painel-educacional.md
-        
+          - Atendimento Domiciliar: analise-de-requisitos/personas/persona-atendimento-domiciliar.md
 
       - Cenarios: analise-de-requisitos/cenarios/cenarios.md
 
