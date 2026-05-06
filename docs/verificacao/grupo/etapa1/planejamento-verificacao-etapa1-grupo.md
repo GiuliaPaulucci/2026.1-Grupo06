@@ -28,7 +28,7 @@ Cada participante será responsável por verificar um ou mais artefatos da entre
 | Metodologia                 | João                                                                                             | [Felipe Henrique](https://github.com/fhenrique77), [João Guilherme](https://github.com/JoaoGSantana10) |
 | Sites Avaliados e Escolhido | Giulia                                                                                           | [Felipe Henrique](https://github.com/fhenrique77), [João Guilherme](https://github.com/JoaoGSantana10) |
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/fhenrique77">Felipe Henrique</a>, 2026.</p></font>
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/fhenrique77">Felipe Henrique</a>, 2026.</p></font>
 
 ### Objetos de Verificação
 
@@ -64,7 +64,7 @@ A verificação será realizada no período de 09 de abril de 2026 até dia 11 d
 | 11/04/2026 | Relato dos resultados e correção dos problemas encontrados.    | [Felipe Henrique](https://github.com/fhenrique77), [João Guilherme](https://github.com/JoaoGSantana10) |
 | 12/04/2026 | Entrega final das verificações e correções na página do grupo. | [Felipe Henrique](https://github.com/fhenrique77), [João Guilherme](https://github.com/JoaoGSantana10) |
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/fhenrique77">Felipe Henrique</a>, 2026.</p></font>
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/fhenrique77">Felipe Henrique</a>, 2026.</p></font>
 
 ## Listas de Verificação
 
