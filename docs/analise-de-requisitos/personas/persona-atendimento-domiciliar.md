@@ -8,11 +8,11 @@ Para ser eficiente, cada persona deve conter elementos bem definidos: identidade
 
 ## Personas Desenvolvidas
 
-### Persona 2 — Ana Paula Ferreira
+### Persona 1 — Ana Paula Ferreira
 
 ![Persona Ana Paula Ferreira](../../assets/personas/Ana_Paula_Ferreira.png)
 
-Imagem 2: Imagem da Ana Paula Ferreira 
+Imagem 1: Imagem da Ana Paula Ferreira 
 
 
 
