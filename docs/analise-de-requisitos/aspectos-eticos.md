@@ -1,14 +1,58 @@
+# Aspectos Éticos
+
 ## Introdução
 
+Códigos de ética são fundamentais principalmente em profissões que atuam diretamente sobre as pessoas. Na área da computação, associações como ACM e a IEEE utilizam códigos de ética que visam evitar causar danos ou consequências negativas às pessoas, respeitar a privacidade das pessoas e honrar a confidencialidade das informações fornecidas. No Brasil, a Sociedade Brasileira de Computação ainda não tem um código de ética, mas é possível se pautar em referências da área que abordam o tema com o objetivo de proteger o bem-estar físico e psicológico dos participantes de qualquer estudo, pesquisa ou análise realizada [2]. Segundo a Resolução nº 196/96 do Conselho Nacional de Saúde (1996), que regulamenta as pesquisas científicas envolvendo pessoas em qualquer área do conhecimento, a pesquisa tem como base os seguintes princípios:
 
-## Referências Bibliográficas
+**Princípio da autonomia:** que envolve o consentimento livre e esclarecido dos indivíduos e a proteção a grupos vulneráveis e aos legalmente incapazes, com intuito de respeitar sua dignidade, autonomia e defendê-los em sua vulnerabilidade.
+
+**Princípio da beneficência:** que envolve a ponderação entre riscos e benefícios, tanto atuais como potenciais, individuais ou coletivos, comprometendo-se com o máximo de benefícios e o mínimo de danos e riscos. Esses danos podem ocorrer de forma física, psíquica, moral, intelectual, social, cultural ou espiritual do ser humano, em qualquer etapa do processo ou depois dele.
+
+**Princípio da não maleficência:** que envolve a garantia de evitar danos previsíveis relacionados à pesquisa, tanto os imediatos quanto os tardios.
+
+**Princípio da justiça e equidade:** relacionado à relevância social da pesquisa, com vantagens significativas para os participantes da pesquisa e minimização do ônus para os participantes vulneráveis, o que garante a igual consideração dos interesses envolvidos, não perdendo o sentido de sua destinação sócio-humanitária.
+
+Os questionários utilizados pela equipe possuem o seguinte termo de consentimento:
+
+---
+
+## Termo de Consentimento
+
+O termo de consentimento abaixo apresenta um padrão a ser utilizado durante as atividades envolvendo seres humanos. O membro do grupo que estiver aplicando a atividade deverá preencher os dados de acordo com a atividade desenvolvida.
+
+---
+
+### Termo de Consentimento Livre e Esclarecido
+
+Somos uma equipe da disciplina de Interação Humano-Computador da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB), que está realizando uma avaliação do site **Educação DF** (https://www.educacao.df.gov.br/), portal da Secretaria de Estado de Educação do Distrito Federal, que tem como foco a oferta de informações e serviços educacionais à população do Distrito Federal. Os resultados desse projeto podem ser observados através [deste link](https://interacao-humano-computador.github.io/2026.1-Grupo06/). Nessa etapa do projeto, **[DESCREVER ETAPA]**. Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização de uma atividade de **[DESCRIÇÃO DA ATIVIDADE]** com duração aproximada de **[TEMPO DE DURAÇÃO]**. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:
+
+- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente.
+- O consentimento para a participação na atividade é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
+- A atividade pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
+- Será necessário gravar a atividade, e as gravações efetuadas serão divulgadas nos resultados do projeto.
+- Os dados coletados durante a atividade destinam-se estritamente a atividades de análise e elaboração de melhorias para o site Educação DF.
+
+Diante das explicações, você acha que está suficientemente informado(a) a respeito da pesquisa que será realizada e concorda de livre e espontânea vontade em participar, como colaborador? Caso o participante seja menor de idade, é necessária a permissão do responsável legal.
+
+( ) Sim
+
+( ) Não
+
+---
 
 ## Bibliografia
 
-> Aspectos Éticos Lichess. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-Lichess/>>. Acesso em 30 de abril de 2026.
+[1] BARBOSA, Simone; DINIZ, Bruno. *Interação Humano-Computador*. Editora Elsevier, Rio de Janeiro, 2010.
+
+[2] Johnson, D.G. *Computer Ethics*, 3ª edição. Englewood Cliffs, NJ: Prentice Hall, 2001.
+
+---
+
+| 1.0 | 03/05/2026 | Criação do documento | Felipe Henrique | |
 
 ## Histórico de versão
 
 | Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                    |
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | `1.0`  | 30/04/2026 | Criação da página                    | [Ígor Veras ](https://github.com/igorvdaniel) |  |
+| `1.1` | 03/05/2026 | Criação do documento |  [Felipe Henrique](https://github.com/fhenrique77) | |
