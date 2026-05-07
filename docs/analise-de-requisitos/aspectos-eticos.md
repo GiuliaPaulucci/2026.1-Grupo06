@@ -48,7 +48,7 @@ Diante das explicações, você acha que está suficientemente informado(a) a re
 
 ---
 
-| 1.0 | 03/05/2026 | Criação do documento | Felipe Henrique | |
+
 
 ## Histórico de versão
 
