@@ -54,17 +54,22 @@ nav:
           - Creche: analise-de-requisitos/perfis/perfil-creches.md
           - Painel Educacional: analise-de-requisitos/perfis/Perfil-painel-educacional.md
           - Atendimento Domiciliar: analise-de-requisitos/perfis/perfil-atendimento-domiciliar.md
+          - Atendimneto Domiciliar (Professor): analise-de-requisitos/perfis/perfil-professor-atendimento-domiciliar.md
+          
       - Personas:
           - Geral: analise-de-requisitos/personas/personas.md
           - Painel Educacional: analise-de-requisitos/personas/persona-painel-educacional.md
           - Atendimento Domiciliar: analise-de-requisitos/personas/persona-atendimento-domiciliar.md
-
+          - Atendimento Domiciliar (Professor): analise-de-requisitos/personas/persona-professor-atendimento-domiciliar.md
+          
       - Cenarios: analise-de-requisitos/cenarios/cenarios.md
 
       - Analise de Tarefas:
           - Transferência Escolar: analise-de-requisitos/analise-de-tarefas/transferencia-matricula.md
           - Matricula PEBI: analise-de-requisitos/analise-de-tarefas/Matricula-PEBI.md
           - Creche: analise-de-requisitos/analise-de-tarefas/analise-creche.md 
+          - Atendimento Domiciliar (Professor): analise-de-requisitos/analise-de-tarefas/tarefa-professor-atendimento-domiciliar.md
+          
   - Verificação:
       - Verificação do Grupo:
           - Etapa 1:
