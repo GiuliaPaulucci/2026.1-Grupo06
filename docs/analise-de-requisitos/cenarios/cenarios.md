@@ -174,6 +174,20 @@ Exceção | - Dificuldade em encontrar informações específicas
 | Restrições | - Escolha permitida de apenas uma unidade escolar <br> - Limite de tamanho para os arquivos enviados <br> - Limite de alunos por unidade|
 | Exceção    | - Falha na conexão com a internet <br> - Documentos ilegíveis ou fora do padrão exigido |
 
+### C09: Realizar Atendimento Domiciliar pelo sistema
+ 
+| Elemento | Descrição |
+|---|---|
+| **Objetivo** | Planejar, enviar e acompanhar as atividades pedagógicas de um aluno em atendimento domiciliar, registrando formalmente o progresso pelo sistema |
+| **Contexto** | - Local: sala de coordenação pedagógica da escola ou em casa, em Taguatinga (DF)<br>- Tempo: durante o período de afastamento médico do estudante, após o deferimento da solicitação pela escola e pela Coordenação Regional de Ensino<br>- Pré-condições: ter acesso à internet, possuir notebook ou smartphone, ter recebido a notificação de deferimento do atendimento domiciliar do aluno pelo sistema |
+| **Recursos** | - Internet<br>- Notebook ou smartphone<br>- Sistema de gestão do Atendimento Domiciliar da SEEDF<br>- Materiais pedagógicos digitalizados<br>- Perfil do estudante no sistema |
+| **Ator** | Carlos Eduardo Santos — professor responsável pelo atendimento domiciliar do estudante |
+| **Episódios** | - Carlos recebe uma notificação do sistema informando que o pedido de atendimento domiciliar de um de seus alunos foi deferido, com o período de afastamento especificado<br>- Carlos acessa o perfil do estudante no sistema e visualiza as informações necessárias para o planejamento pedagógico<br>- Carlos elabora as atividades pedagógicas adaptadas ao estado de saúde e ao nível do estudante e as envia pelo sistema, definindo o prazo de devolução<br>- O sistema notifica o responsável (Ana Paula) sobre a disponibilização das atividades<br>- O responsável devolve as atividades realizadas pelo sistema e Carlos recebe uma notificação de entrega<br>- Carlos avalia as atividades, registra o feedback e documenta o progresso do estudante no sistema<br>- Ao final do período de afastamento, Carlos sinaliza no sistema o encerramento do atendimento domiciliar e o retorno do estudante às aulas presenciais |
+| **Restrições** | - O professor só pode iniciar o envio de atividades após o deferimento formal do pedido no sistema<br>- Os registros de progresso devem ser formalizados dentro do sistema, sem dependência de canais informais<br>- A interface deve ser funcional tanto em notebook quanto em smartphone, permitindo acesso durante os períodos de coordenação pedagógica |
+| **Exceção** | - Sistema indisponível no momento do acesso<br>- Responsável não devolve as atividades dentro do prazo estabelecido<br>- Falha no envio dos materiais pedagógicos pelo sistema<br>- Encerramento antecipado do atendimento por alta médica do estudante antes do prazo previsto<br>- Professor substituto precisar assumir o atendimento por afastamento do titular |
+
+
+
 
 ## Referências Bibliográficas
 
