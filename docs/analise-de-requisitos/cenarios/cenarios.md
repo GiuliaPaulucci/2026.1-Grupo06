@@ -207,5 +207,5 @@ Exceção | - Dificuldade em encontrar informações específicas
 | `1.3`  | 03/05/2026 | Criação da tabela C04 | [Giulia Paulucci](https://github.com/GiuliaPaulucci)|         |
 | `1.4`  | 03/05/2026 | Criação da tabela C02 | [Joao Guilherme](https://github.com/JoaoGSantana10)|         |
 | `1.5`  | 03/05/2026 | Criação da tabela C08 | [Matheus](https://github.com/matheus-06)||
-| `1.6`  | 09/05/2026 | Criação da tabela C02 | [Felipe Henrique](https://github.com/fhenrique77)|         |
+| `1.6`  | 09/05/2026 | Criação da tabela C09 | [Felipe Henrique](https://github.com/fhenrique77)|         |
 
