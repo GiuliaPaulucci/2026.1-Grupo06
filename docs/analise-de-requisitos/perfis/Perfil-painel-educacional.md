@@ -220,4 +220,4 @@ NIELSEN, Jakob. Usability Engineering. Boston: Academic Press, 1993.
 
  Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
-| `1.0` | 03/05/2026 | Criação da página | [Joao Guilherme](https://github.com/JoaoGSantana10) | |
+| `1.0` | 03/05/2026 | Criação da página Perfil Painel Educacional | [Joao Guilherme](https://github.com/JoaoGSantana10) | |
