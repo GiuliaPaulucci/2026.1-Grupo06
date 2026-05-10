@@ -29,3 +29,31 @@ Este guia foi elaborado pelos estudantes da disciplina de Interação Humano-Com
 Este guia deve ser utilizado como referência para tomar decisões de design durante todo o ciclo de vida do projeto, incluindo prototipação, produção e manutenção.
 
 #### Como manter o guia
+
+A equipe deve atualizar o guia sempre que novas decisões forem tomadas ou quando houver mudanças que contrariem o que foi previamente descrito.
+
+---
+
+## 2. Resultados de análise 
+
+#### Descrição o ambiente de trabalho do usuário
+
+O sistema de matrículas do DF é primariamente acessado via computadores (desktops e notebooks) em lan houses, escolas e residências. Dispositivos móveis representam uma parcela crescente dos acessos, especialmente por responsáveis que utilizam smartphones Android de entrada.
+
+**Dispositivos mais utilizados:**
+
+- Desktop / Notebook
+- Smartphone Android (acesso secundário, em crescimento)
+- Tablet (uso esporádico)
+
+**Contexto de uso:**
+
+- Conexões instáveis (3G/4G em zonas periféricas)
+- Picos de acesso nos períodos de matrícula (janeiro e julho) 
+- Mútiplos perfis de usuário com diferentes níveis de letramento digital
+
+---
+
+## 3. ELementos de interface
+
+#### Paleta de cores
