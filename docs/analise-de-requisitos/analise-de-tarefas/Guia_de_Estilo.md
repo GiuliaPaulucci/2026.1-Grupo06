@@ -21,3 +21,11 @@ A organização do guia de estilo seguirá a proposta de Marcus e Mayhew, confor
 6. Vocabulário e padrões
 
 #### Público-alvo do guia de estilo
+
+Este guia foi elaborado pelos estudantes da disciplina de Interação Humano-Computador da Universidade de Brasília para orientar decisões de design e desenvolvimento do sistema de matrículas do DF. Pode ser utilizado por qualquer equipe envolvida com o produto.
+
+#### Como utilizar o guia
+
+Este guia deve ser utilizado como referência para tomar decisões de design durante todo o ciclo de vida do projeto, incluindo prototipação, produção e manutenção.
+
+#### Como manter o guia
