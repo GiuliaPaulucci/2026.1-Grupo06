@@ -197,4 +197,4 @@ Seguindo WCAG 2.1 nível AA:
 
  Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
-| `1.0` | 03/05/2026 | Criação da página Guia de Estilo Inicial | [Joao Guilherme](https://github.com/JoaoGSantana10) | |
+| `1.0` | 10/05/2026 | Criação da página Guia de Estilo Inicial | [Joao Guilherme](https://github.com/JoaoGSantana10) | |
