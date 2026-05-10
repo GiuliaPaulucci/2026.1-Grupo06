@@ -6,6 +6,9 @@ As personas foram elaboradas com base na análise de tarefas e no perfil de usu�
 
 ### Persona 1: Responsável por Aluno
 
+![Persona Ana Souza](../../assets/personas/Ana_Souza.png)
+Imagem 1: Imagem da Ana Souza
+
 **Nome:** Ana Souza  
 **Idade:** 38 anos  
 **Profissão:** Auxiliar administrativa  
@@ -42,6 +45,9 @@ Ana é mãe de dois filhos matriculados na rede pública do Distrito Federal. El
 
 ### Persona 2: Estudante da Rede Pública
 
+![Persona Joao Pereira](../../assets/personas/Joao_Pereira.png)
+Imagem 1: Imagem do Joao Pereira
+
 **Nome:** João Pereira  
 **Idade:** 17 anos  
 **Ocupação:** Estudante  
@@ -76,6 +82,9 @@ João é estudante da rede pública e utiliza o site para buscar informações s
 ---
 
 ### Persona 3: Profissional da Educação
+
+![Persona Carlos Mendes](../../assets/personas/Carlos_Mendes.png)
+Imagem 1: Imagem do Carlos Mendes
 
 **Nome:** Carlos Mendes  
 **Idade:** 45 anos  
