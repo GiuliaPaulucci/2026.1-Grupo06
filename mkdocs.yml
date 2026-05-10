@@ -69,6 +69,7 @@ nav:
           - Matricula PEBI: analise-de-requisitos/analise-de-tarefas/Matricula-PEBI.md
           - Creche: analise-de-requisitos/analise-de-tarefas/analise-creche.md 
           - Atendimento Domiciliar (Professor): analise-de-requisitos/analise-de-tarefas/tarefa-professor-atendimento-domiciliar.md
+      - Princípios Gerais: analise-de-requisitos/principios-gerais.md
           
   - Verificação:
       - Verificação do Grupo:
