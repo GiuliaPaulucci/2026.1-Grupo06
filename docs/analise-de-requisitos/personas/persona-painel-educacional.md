@@ -126,3 +126,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
 | `1.0` | 03/05/2026 | Criação da página | [Joao Guilherme](https://github.com/JoaoGSantana10) | |
+| `1.1` | 03/05/2026 | Criação da página | [Joao Guilherme](https://github.com/JoaoGSantana10) | |
