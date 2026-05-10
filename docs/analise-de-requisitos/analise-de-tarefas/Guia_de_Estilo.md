@@ -57,3 +57,38 @@ O sistema de matrículas do DF é primariamente acessado via computadores (deskt
 ## 3. ELementos de interface
 
 #### Paleta de cores
+
+| Nome | Hex | Uso |
+| ---|---|---|
+| Azul Governo (primária) | `#1351B4` | Botões principais, links, ações primárias |
+| Azul Hover | `#155BCB` | Estado hover de botões primpários |
+| Azul Escuro (secundária) | `#071D41` | Cabeçalhos, rodapé, destaques |
+| Verde Sucesso | `#1668821` | Confirmações, matrículas concluídas |
+| Vermelho Erro | `#DC3545` | Erros, campos obrigatórios não preenchidos |
+| Cinza Fundo | `#F8F8F8` | Fundo das páginas internas | 
+| Branco | `#FFFFFF` | Fundo de cards e formulários |
+
+> A paleta segue o padrão de Design System Gov.br, garantindo consistência com demais serviços digitais do governo federal.
+
+
+#### Tipografia
+
+| Uso | Fonte | Tamanho | Peso |
+|---|---|---|---|
+| Fonte principal | Rawline (Gov.br) / Raleway | — | — |
+| Título H1 | Rawline | 32px | 500 |
+| Título H2 | Rawline | 24px | 500 |
+| Título H3 | Rawline | 20px | 500 |
+| Corpo de texto | Rawline | 16px | 400 |
+| Rótulo de formulário | Rawline | 14px | 400 |
+| Texto auxiliar | Rawline | 12px | 400 |
+
+---
+
+## 4. ELementos de interação
+
+##### Estilos de interação
+
+Os usuários interagem com o sistema para: buscar escola por localização, preencher dados do estudante, anexar documentos, acompanhar o status da matrícula e receber confirmação. Todas as interações se dão por botões, formulários e mensagens de feedback.
+
+##### Seleção de um estilo
