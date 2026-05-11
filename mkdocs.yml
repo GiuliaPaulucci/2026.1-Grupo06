@@ -47,7 +47,8 @@ nav:
   - Análise de Requisitos:
       - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
       - Principios Gerais: analise-de-requisitos/principios-gerais.md
-
+      - Guia de estilo: analise-de-requisitos/analise-de-tarefas/Guia_de_Estilo.md
+      
       - Perfil de Usuário:
           - Transferência Escolar: analise-de-requisitos/perfis/perfil-transferencia-matricula.md
           - Matricula PEBI: analise-de-requisitos/perfis/perfil-matricula-PEBI.md
@@ -70,8 +71,8 @@ nav:
           - Matricula PEBI: analise-de-requisitos/analise-de-tarefas/Matricula-PEBI.md
           - Creche: analise-de-requisitos/analise-de-tarefas/analise-creche.md 
           - Atendimento Domiciliar (Professor): analise-de-requisitos/analise-de-tarefas/tarefa-professor-atendimento-domiciliar.md
-          - Guia de estilo: analise-de-requisitos/analise-de-tarefas/Guia_de_Estilo.md
-          
+
+
   - Verificação:
       - Verificação do Grupo:
           - Etapa 1:
