@@ -20,4 +20,24 @@ sendo fundamentais para o design de sistemas computacionais  mais intuitivos e a
 
 - **Memorização:** Referente à capacidade do usuário de lembrar como utilizar o sistema após já ter aprendido, especialmente importante em sistemas acessados com pouca frequência.
 
-## Metas a serem almejadas
+## Metas a serem almejadas pelo nosso projeto
+
+Com a intenção de definir as metas almejadas no projeto, analisamos o site de matrículas do Distrito Federal e identificamos as mets definidas por Nielsen mais críticas, decidindo
+trabalhar prioritariamente sobre elas. A seguir, analisamos as metas de usabilidade do [Sistema de Matrículas do DF](https://www.educacao.df.gov.br/) por meio de perguntas direcionadas a
+cada meta:
+
+### **Eficácia**
+
+- **Pergunta:** O sistema cumpre seu propósito principal de permitir que o responsável legal realize a matrícula do estudante de forma completa?
+
+- **Meta Apliacada:** Sem meta. O sistema de matrículas em sua função central de registrar solicitações de matrículas, cumpre seu objetivo principal. No entanto, há falhas pontuais como
+ausência de confirmação clara ao final do processo.
+
+--- 
+
+### **Eficiência**
+
+- **Pergunta:** O sistema permite ao usuário concluir a matrícula com o menor número de etapas possível? O fluxo é direto e sem redundâncias?
+
+- **Meta aplicada:** O sistema apresenta problemas de eficiência, pois exige que o usuário navegue por múltiplas páginas sem indicação clara de progresso, além de solicitar informações
+repetidas em etapas distintas do processo. Dessa forma, obtivemos como meta redundâncias e exibindo um indicador de progresso vísivel duranre todo o processo, conforme ilustrado na Figura 1.
