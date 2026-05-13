@@ -182,7 +182,6 @@ Seguindo WCAG 2.1 nível AA:
 
 ---
 
-
 ## Referências Bibliográficas
 
 > 1. MARCUS, A. *Graphic design for electronic documents and user interfaces.* ACM, New York, 1991.
