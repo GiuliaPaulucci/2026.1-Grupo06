@@ -3,7 +3,7 @@
 
 As características de plataforma fazem parte da fase de **análise de requisitos** do **ciclo de vida para a engenharia de usabilidade** proposto por ***Mayhew*** em 1999, que busca analisar as possibilidades e limitações da plataforma para auxiliar na produção de metas de usabilidade. Abaixo segue uma figura que representa a 1° fase desse ciclo de vida[[1]](#FONTE1)
 
-![Ciclo de vida para engenharia de usabilidade - Análise de requisitos](../assets/AnaliseDeRequisitos_Mayhew.png)
+![Ciclo de vida para engenharia de usabilidade - Análise de requisitos](../assets/analise.png)
 
 Figura 1 - Fase de análise de requisitos do ciclo de vida de *Mayhew*[[1]](#FONTE1)
 ## Educaçãodf - Carta de Serviços Matrícula
