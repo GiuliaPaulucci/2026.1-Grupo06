@@ -46,6 +46,10 @@ progresso, além de solicitar informações repetidas em etapas distintas do pro
 de progresso vísivel duranre todo o processo, conforme ilustrado na Figura 1.
 
 > **Figura 1** - Capturar a tela do fluxo atual mostrando a ausência de indicador de progresso entre às páginas e a navegação confusa entre páginas.
+> <img width="1226" height="959" alt="image" src="https://github.com/user-attachments/assets/0faac4c0-506e-4515-8142-0a80a069a9d7" />
+
+<img width="1584" height="970" alt="image" src="https://github.com/user-attachments/assets/095c4a32-f3b7-46b0-ba52-feda9b37dce8" />
+
 
 ---
 
@@ -56,6 +60,9 @@ de progresso vísivel duranre todo o processo, conforme ilustrado na Figura 1.
 - **Meta aplicada:** O sistema não oferece mensagens de confirmação antes de ações irreversíveis, como cancelamento de uma solicitação de matrícula, nem
 permite que o usuário retorne a etapas anteriores sem perder os dados já preenchidos. Assim, obtivemos como meta implementar diálogos de confirmação em
 ações críticas e permitir navegação entre etapas sem perda de dados, conformer ilustrado na Figura 2.
+
+<img width="1556" height="971" alt="image" src="https://github.com/user-attachments/assets/aee467bd-16ca-41e8-b22e-76b0c9d96adf" />
+![Uploading image.png…]()
 
 > **Figura 2** - Aqui deve tirar um print da tela onde o usuário perde dados ao clicar em "voltar" ou pode ser também quando não há confirmação antes de uma ação crítica.
 
@@ -78,6 +85,8 @@ usuário do fluxo principal de matrícula. Rótulos de campo e botões são pouc
 obtivemos como meta simplificar a interface inicial, destacar claramente o ponto de entrada do fluxo de mátricula e tornar os rótulos mais descritivos e
 intuitivos, comforme ilustrado na Figura 3.
 
+<img width="1713" height="1010" alt="image" src="https://github.com/user-attachments/assets/353cc06c-05f8-4a7a-a2fc-29ad6639c53b" />
+
 > **Figura 3** - Capturar a tela inicial do sistema de matrículas mostrando o excesso de informações.
 
 ### **Memorização**
@@ -90,7 +99,8 @@ contextuais sobre o que fazer em cada etapa. Considerando que a matrícula ocorr
 obtivemos como meta adicionar textos de ajuda contextuais em cada etapa do formulário e disponibilizar um FAQ acessível durante o processo, conforme
 ilustrado na Figura 4.
 
-> **Figura 4** -  Capturar a tela de algum campo do formulário que não possui qualquer instrução de auxílio.
+> *<img width="1600" height="854" alt="c5ed2c18-d176-4aee-95d2-3939e5856b02" src="https://github.com/user-attachments/assets/5f9250f6-3519-4b0e-b39d-8d3de070b0cc" />
+*Figura 4** -  Capturar a tela de algum campo do formulário que não possui qualquer instrução de auxílio.
 
 ---
 
@@ -123,3 +133,4 @@ almejadas no escopo do projeto são:
 Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
 | `1.0` | 11/05/2026 | Criação da página Metas de Usabilidade | [Joao Guilherme](https://github.com/JoaoGSantana10) | |
+| `1.1` | 14/05/2026 | Edição da página Metas de Usabilidade | [Giulia Paulucci](https://github.com/GiuliaPauluci) | |
