@@ -29,24 +29,24 @@ A página tem como funcionalidade apenas a distribuição de informações, dess
 
 ### Possibilidades
 Entre as possibilidades disponibilizadas pelo site temos:
-- Centralização de informações
-- Acesso remoto
-- Acesso por dispositivos móveis
-- Acesso por computadores
-- Acessibilidade proporcionada pela funcionalidade de Libras
+> - Centralização de informações
+> - Acesso remoto
+> - Acesso por dispositivos móveis
+> - Acesso por computadores
+> - Acessibilidade proporcionada pela funcionalidade de Libras
 
 ### Limitações
 Apesar dessas possibilidades o site ainda assim apresenta limitações técnicas como:
-- Dependência de conexão com a internet
-- Utiliza frameworks como *Bootstrap* e *React* que podem atrasar o carregamento da página em conexões mais lentas, além de gerar dependencias
+> - Dependência de conexão com a internet
+> - Utiliza frameworks como *Bootstrap* e *React* que podem atrasar o carregamento da página em conexões mais lentas, além de gerar dependencias
 
 ### Problemas
 O site *[educacao.df.gov.br/carta-de-servicos-matricula](https://www.educacao.df.gov.br/carta-de-servicos-matricula)* apresenta diversos problemas, entre eles:
-- Responsividade incompleta, que deixa a desejar em dispositivos móveis
-- Excesso de links de redirecionamentos
-- Links que levam a páginas inexistentes ou fora do ar, como para o *Manual de para Atendimento à Educação Infantil – Creche*
-- Textos de difícil leitura principalmente em dispositivos móveis
-- Sistema constantemente fora do ar 
+> - Responsividade incompleta, que deixa a desejar em dispositivos móveis
+> - Excesso de links de redirecionamentos
+> - Links que levam a páginas inexistentes ou fora do ar, como para o *Manual de para Atendimento à Educação Infantil – Creche*
+> - Textos de difícil leitura principalmente em dispositivos móveis
+> - Sistema constantemente fora do ar 
 
 ---
 ## Fontes
