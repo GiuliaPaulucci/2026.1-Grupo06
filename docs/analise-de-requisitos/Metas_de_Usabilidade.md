@@ -133,4 +133,4 @@ almejadas no escopo do projeto são:
 Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
 | `1.0` | 11/05/2026 | Criação da página Metas de Usabilidade | [Joao Guilherme](https://github.com/JoaoGSantana10) | |
-| `2.0` | 14/05/2026 | Edição da página Metas de Usabilidade | [Giulia Paulucci](https://github.com/GiuliaPauluci) | |
+| `1.1` | 14/05/2026 | Edição da página Metas de Usabilidade | [Giulia Paulucci](https://github.com/GiuliaPauluci) | |
