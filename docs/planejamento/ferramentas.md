@@ -62,3 +62,4 @@
 | `1.0` | 09/04/2026 | Criação da página de ferramenta | [Ígor Veras](https://github.com/igorvdaniel) |  |[Matheus Pinheiro](https://github.com/matheus-06) |
 | `1.1` | 24/04/2026 | Correção da página de ferramenta | [Giulia Paulucci](https://github.com/GiuliaPaulucci) | |
 | `1.2` | 03/05/2026 | Adição da ferramenta de personas | [Ígor Veras](https://github.com/igorvdaniel) | |
+| `1.3` | 04/05/2026 | Refinamento do design  | [Luara Cristiana](https://github.com/luacristiana) | |
