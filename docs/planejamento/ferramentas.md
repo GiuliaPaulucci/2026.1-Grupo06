@@ -23,7 +23,7 @@
 | <img src="../../assets/ferramentas/wavelogo.png" data-no-lightbox style="height:90px;width:140px" /> | WAVE | Testar acessibilidade de aplicações web.<sup>11</sup> |
 | <img src="../../assets/ferramentas/whatsapp.png" data-no-lightbox style="height:85px;width:85px" /> | WhatsApp | Utilizado como principal canal de comunicação.<sup>6</sup> |
 | <img src="../../assets/ferramentas/youtube.png" data-no-lightbox style="height:85px;width:95px" /> | YouTube | Hospedagem de vídeos produzidos.<sup>7</sup> |
-| ![This Person Doesn't Exist](../../assets/ferramentas/this-person-doesnt-exist.png) | This Person Doesn't Exist | Utilizado para geração de imagens para as personas.                                                                                                                       |
+| <img src="../../assets/ferramentas/this-person-doesnt-exist.png" alt="This Person Doesn't Exist" height="85px" width="95px"> | This Person Doesn't Exist | Utilizado para geração de imagens para as personas. |                                                                                                                      |
 
 
 <p style="text-align: center; font-size: 14px;">Fonte: <a href="https://github.com/igorvdaniel">Igor</a></p>
@@ -57,8 +57,8 @@
 
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-|--------|------|-----------|-----------|-------------|
-| `1.0` | 09/04/2026 | Criação da página de ferramenta | [Ígor Veras](https://github.com/igorvdaniel) | [Matheus Pinheiro](https://github.com/matheus-06) |
-| `2.0` | 24/04/2026 | Correção da página de ferramenta | [Giulia Paulucci](https://github.com/GiuliaPaulucci) |
-| `2.1` | 03/05/2026 | Adição da ferramenta de personas | [Ígor Veras](https://github.com/igorvdaniel) |
+| Versão | Data | Descrição | Autor(es) |Data de revisão | Revisor(es) |
+|--------|------|-----------|-----------|-------------| ----- |
+| `1.0` | 09/04/2026 | Criação da página de ferramenta | [Ígor Veras](https://github.com/igorvdaniel) |  |[Matheus Pinheiro](https://github.com/matheus-06) |
+| `1.1` | 24/04/2026 | Correção da página de ferramenta | [Giulia Paulucci](https://github.com/GiuliaPaulucci) | |
+| `1.2` | 03/05/2026 | Adição da ferramenta de personas | [Ígor Veras](https://github.com/igorvdaniel) | |

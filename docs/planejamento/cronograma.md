@@ -1,6 +1,6 @@
 # Cronograma
 
-## Descrição
+## Introdução 
 
 O cronograma tem como objetivo organizar todas as tarefas a serem executadas ao longo da disciplina de Interação Humano-Computador. Dessa forma, as atividades foram categorizadas de acordo com as etapas em que devem ser realizadas. Os cronogramas em execução serão atualizados com o passar do tempo.
 
@@ -79,31 +79,12 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 | Gravar apresentação | Início: 02/05 <br> Fim: 02/05 | Todos | Início: 02/05 <br> Fim: 02/05 | Todos |
 | Correção pós apresentação | Início: 06/05 <br> Fim: 06/05 | Todos | Início: 07/05 <br> Fim: 07/05 | Todos |
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
-| --- | --- | --- | --- | --- |
-| Elaborar Perfil do Usuário | Início: 23/04 <br> Fim: 28/04 | Todos | Início: 28/04 <br> Fim: 29/04 | Todos |
-| Definir Aspectos Éticos | Início: 23/04 <br> Fim: 28/04 | Todos | Início: 28/04 <br> Fim: 29/04 | Todos |
-| Elaborar Termo de Consentimento (TCLE) | Início: 28/04 <br> Fim: 30/04 | Todos | Início: 30/04 <br> Fim: 01/05 | Todos |
-| Realizar Análise de Tarefas (HTA) | Início: 28/04 <br> Fim: 01/05 | Todos | Início: 01/05 <br> Fim: 02/05 | Todos |
-| Realizar Análise de Tarefas (GOMS) | Início: 28/04 <br> Fim: 01/05 | Todos | Início: 01/05 <br> Fim: 02/05 | Todos |
-| Atualizar Git Page | Início: 01/05 <br> Fim: 02/05 | Todos | Início: 02/05 <br> Fim: 02/05 | Todos |
-| Gravar apresentação | Início: 02/05 <br> Fim: 02/05 | Todos | Início: 02/05 <br> Fim: 02/05 | Todos |
-| Correção pós apresentação | Início: 06/05 <br> Fim: 06/05 | Todos | Início: 07/05 <br> Fim: 07/05 | Todos |
+
 
 ## Entrega 3 - Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo</p></font>
 
-| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
-| --- | --- | --- | --- | --- |
-| Definir características da plataforma | Início: 30/04 <br> Fim: 05/05 | Todos | Início: 05/05 <br> Fim: 06/05 | Todos |
-| Documentar Princípios Gerais do Projeto | Início: 05/05 <br> Fim: 08/05 | Todos | Início: 08/05 <br> Fim: 09/05 | Todos |
-| Definir Metas de Usabilidade | Início: 05/05 <br> Fim: 08/05 | Todos | Início: 08/05 <br> Fim: 09/05 | Todos |
-| Elaborar Guia de Estilo | Início: 07/05 <br> Fim: 10/05 | Todos | Início: 10/05 <br> Fim: 11/05 | Todos |
-| Atualizar Git Page | Início: 10/05 <br> Fim: 11/05 | Todos | Início: 11/05 <br> Fim: 11/05 | Todos |
-| Gravar apresentação | Início: 11/05 <br> Fim: 11/05 | Todos | Início: 11/05 <br> Fim: 11/05 | Todos |
-| Correção pós apresentação | Início: 15/05 <br> Fim: 15/05 | Todos | Início: 16/05 <br> Fim: 16/05 | Todos |
-
-## Entrega 4 - Planejamento da Avaliação do Storyboard e Análise de Tarefas
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
 | Definir características da plataforma | Início: 30/04 <br> Fim: 05/05 | Todos | Início: 05/05 <br> Fim: 06/05 | Todos |
@@ -232,6 +213,9 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 ## Histórico de versão
 
-| Versão  | Data       | Descrição                         | Autor(es)                                                                                    | Revisor(es)                                      |
-| ------- | ---------- | --------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 09/04/2026 | Criação do cronograma                     | [Ígor Veras ](https://github.com/igorvdaniel) e [ Felipe Henrique](https://github.com/fhenrique77)|  |
+| Versão | Data | Descrição | Autor(es) | Data de Revisão | Revisor(es) |
+| :---: | :---: | :--- | :--- | :---: | :--- |
+| 1.0 | 09/04/2026 | Criação do cronograma | [Igor Veras Daniel](https://github.com/igorvdaniel) e [Felipe Henrique Oliveira Sousa](https://github.com/fhenrique77) |  | |
+
+
+

@@ -1,8 +1,6 @@
-# Introdução
+## Introdução
 
 O objetivo desta página é apresentar o vídeo referente à segunda entrega do projeto, contemplando o perfil do usuário, personas, aspectos éticos de pesquisas envolvendo pessoas e análise de tarefas. Clique no link abaixo para acessar diretamente a apresentação no YouTube.
-
-# Apresentação 02
 
 <p align="center">
   <a href="https://youtu.be/HYCZ2S0pMm8?si=k_iaAPZJxnVHnzaC" target="_blank">
@@ -24,8 +22,8 @@ O objetivo desta página é apresentar o vídeo referente à segunda entrega do 
 
 Nesta apresentação, demonstrou-se o desenvolvimento da segunda etapa do projeto da disciplina, abordando a definição do perfil do usuário, elaboração de personas, análise de tarefas e os aspectos éticos relacionados às pesquisas envolvendo pessoas, seguindo os critérios estabelecidos no plano de ensino disponibilizado pelo professor.
 
-# Histórico de Versões
+## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-|--------|------|------|----------|----------|
-| `1.0` | 07/05/2026 | Criação da página da apresentação da entrega 2 | Giulia Paulucci | - |
+| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) | 
+|--------|------|------|----------|----------| ----|
+| `1.0` | 07/05/2026 | Criação da página da apresentação da entrega 2 | [Giulia Paulucci](https://github.com/GiuliaPaulucci) | 14/05/2026 | [Luara Cristiana](https://github.com/luacristiana) |

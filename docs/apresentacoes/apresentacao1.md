@@ -2,7 +2,13 @@
 
 O objetivo dessa página é apresentar o vídeo de entrega da apresentação 1 do projeto, clique no link para acessar diretamente o vídeo no youtube contendo a mesma.
 
-## Apresentação 01
+
+<p align="center">
+  <a href="https://www.youtube.com/embed/dlWghW5oxwg" target="_blank">
+    Acessar vídeo no YouTube
+  </a>
+</p>
+
 <!-- <p style="text-align: center"><a href="https://www.youtube.com/" target="blanket">Link aqui</a></p> -->
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/dlWghW5oxwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
@@ -13,6 +19,6 @@ Nesta apresentação, demonstrou-se o que foi foi realizado para a primeira entr
 
 ## Histórico de Versões
 
-Versão  | Data | Descrição | Autor(es) | Revisor(es)
--------- | ------ | ------ | ---------- | ----------
-| `1.0`  | 12/04/2026 | Criação da página                     | [Ígor Veras ](https://github.com/igorvdaniel)|  |
+| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :---: | :---: | :--- | :--- | :--- | :--- |
+| 1.0 | 12/04/2026 | Criação da página | [Igor Veras Daniel](https://github.com/igorvdaniel) |  14/05/2026 | [Luara Cristiana](https://github.com/luacristiana) |
