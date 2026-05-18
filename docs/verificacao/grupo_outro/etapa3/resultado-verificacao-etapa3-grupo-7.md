@@ -4,7 +4,7 @@ O objetivo dessa página é apresentar a documentação e vídeo da inspeção d
 
 ## Vídeo da Inspeção
 
-<iframe width="1863" height="754" src="https://www.youtube.com/watch?v=7hqXb70ltmY" title="Inspeção entrega 3 grupo +1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1863" height="754" src="https://www.youtube.com/embed/7hqXb70ltmY" title="Inspeção entrega 3 grupo +1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Para esta avaliação utilizou-se a lista de verificação presente no plano de ensino da disciplina [plano de ensino](https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf) disponibilizado pelo professor. 
 
