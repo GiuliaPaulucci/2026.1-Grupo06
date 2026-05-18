@@ -27,7 +27,7 @@ Para esta avaliação utilizou-se a lista de verificação presente no plano de 
 
 ## Histórico de Versões
 
-Versão  | Data | Descrição | Autor(es) | Revisor(es)
--------- | ------ | ------ | ---------- | ----------
+|Versão  | Data | Descrição | Autor(es) | Revisor(es)|
+|--------| -----| ------    | ----------| ---------- |
 | `1.0`  | 17/05/2026 | Criação da página | [Matheus Pinheiro](https://github.com/matheus-06) | 
 | `1.1`  | 17/05/2026 | Adição do vídeo | [Matheus Pinheiro](https://github.com/matheus-06) | 
