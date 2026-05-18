@@ -83,6 +83,8 @@ nav:
               - Resultado da Verificação da Etapa 1: verificacao/grupo/etapa1/resultado-verificacao-etapa1-grupo.md
           - Etapa 2:
               - Grupo 5: verificacao/grupo_outro/etapa2/resultado-verificacao-etapa2-grupo-5.md
+          - Etapa 3:
+              - Grupo 5: verificacao/grupo_outro/etapa3/resultado-verificacao-etapa3-grupo-7.md
 
 theme:
   name: material
