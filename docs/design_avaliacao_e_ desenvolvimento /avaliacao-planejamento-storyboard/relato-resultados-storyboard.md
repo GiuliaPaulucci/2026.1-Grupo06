@@ -1,4 +1,4 @@
-# Planejamento da Documentação de Resultados: Avaliação de Storyboards
+# o Planejamento do relato dos resultados da avaliação do Storyboard
 
 > **Autores:** Luara Cristiana e Igor
 
