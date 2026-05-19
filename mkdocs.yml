@@ -87,9 +87,8 @@ nav:
               - Grupo 5: verificacao/grupo_outro/etapa3/resultado-verificacao-etapa3-grupo-7.md
 
   - Design Avaliação e Desenvolvimento: 
-    - Verificação e planejamento do storyboard: design_avaliacao_e_ desenvolvimento /planejamentostoy-board/verificacaplanejamento-avaliacao-storyboard.md
-    - Planejamento do Relato dos Resultados do Storyboard: design_avaliacao_e_ desenvolvimento /avaliacao-planejamento-storyboard/relato-resultados-storyboard.md
-
+    - Verificação e planejamento do storyboard: design-avaliacao-e-desenvolvimento/planejamentostoy-board/verificacaplanejamento-avaliacao-storyboard.md
+    - Planejamento do Relato dos Resultados do Storyboard: design-avaliacao-e-desenvolvimento/avaliacao-planejamento-storyboard/relato-resultados-storyboard.md
 theme:
   name: material
   features:

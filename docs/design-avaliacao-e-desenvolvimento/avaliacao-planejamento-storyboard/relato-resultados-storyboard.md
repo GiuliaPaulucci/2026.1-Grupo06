@@ -1,8 +1,8 @@
-# o Planejamento do relato dos resultados da avaliação do Storyboard
+# Planejamento do relato dos resultados da avaliação do Storyboard
 
 > **Autores:** Luara Cristiana e Igor
 
-## Introdução
+## 1. Introdução
 
 Este documento estabelece as diretrizes e a estrutura que serão adotadas para registrar os resultados obtidos nas sessões de avaliação dos Storyboards voltados aos serviços da Secretaria de Estado de Educação do Distrito Federal (SEEDF). O objetivo principal aqui é definir um padrão claro de documentação, garantindo que toda a equipe de avaliadores registre as descobertas e percepções dos usuários de maneira uniforme.
 
