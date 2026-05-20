@@ -69,7 +69,7 @@ Cada funcionalidade utilizará um método de avaliação específico.
 |---|---|---|---|
 | Transferência Escolar | Entrevista com usuário | Presencial | 2 |
 | Matrícula PEBI | Questionário Remoto | Remoto | > 10 |
-| Ensino Especial | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
+| Ensino Especial | Entrevista com usuário | Presencial | 2 |
 | Creche | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
 | Painel Educacional | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
 | Atendimento Domiciliar | Questionário Remoto | Remoto | > 5 |
@@ -206,6 +206,16 @@ Abaixo seguem os vídeos feitos do teste piloto de cada analise de tarefa elabor
 
 <font size="3"><p style="text-align: center">Autor: [Matheus Pinheiro](https://github.com/matheus-06).</p></font>
 
+
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=bBaG3CEX8Uo" target="blanket">Serviço especial</a></p>
+
+
+<p style="text-align: center"><iframe width="1863" height="754" src="https://www.youtube.com/embed/bBaG3CEX8Uo" title="Teste piloto verificação análise de Serviço especial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Autor: [Luara Cristiana](https://github.com/luacristiana).</p></font>
+
+
 ### Objetivos do Piloto
 
 - Verificar a clareza das instruções;
@@ -274,4 +284,5 @@ Fonte: MACIEL, Cristiano; NOGUEIRA, José Luis T.; CIUFFO, Leandro Neumann; GARC
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
 | `1.0`  | 19/05/2026 | Criação da página                        | [Matheus](https://github.com/matheus-06)||
 | `1.1`  | 19/05/2026 | Adição do vídeo de teste piloto          | [Matheus](https://github.com/matheus-06)||
-| `1.2`  | 19/05/2026 | Adição das referências linkadas          | [Matheus](https://github.com/matheus-06)||
+| `1.2`  | 19/05/2026 | Adição do vídeo de teste piloto - Serviço especial| [Luara Cristiana](https://github.com/luacristiana)||
+| `1.3`  | 19/05/2026 | Adição das referências linkadas          | [Matheus](https://github.com/matheus-06)||
