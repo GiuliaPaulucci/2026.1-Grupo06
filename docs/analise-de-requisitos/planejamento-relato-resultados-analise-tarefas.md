@@ -77,6 +77,21 @@ O relato deve identificar os participantes envolvidos na avaliação, preservand
 | U01 | Usuário convidado | Responsável legal | Validar entendimento do fluxo |
 | U02 | Usuário convidado | Professor | Validar tarefas do atendimento domiciliar docente |
 
+### 6.1 Perfil Detalhado dos Usuários Convidados
+
+Para garantir que os participantes representem adequadamente o público-alvo do sistema,
+os usuários convidados deverão atender ao seguinte perfil:
+
+| Característica | U01 — Responsável Legal | U02 — Professor |
+|---|---|---|
+| Faixa etária | 25 a 50 anos | 25 a 55 anos |
+| Escolaridade mínima | Ensino médio completo | Ensino superior completo |
+| Familiaridade com tecnologia | Básica a intermediária | Básica a intermediária |
+| Relação com o sistema | Já realizou ou tentou realizar matrícula na rede pública do DF | Já realizou ou acompanha atendimento domiciliar |
+| Frequência de uso | Esporádica (uma vez por ano) | Ocasional (conforme demanda) |
+| Dispositivo habitual | Smartphone Android ou computador | Computador ou notebook |
+
+
 ## 7. Critérios de Avaliação
 
 Os modelos de análise de tarefas serão avaliados com base nos seguintes critérios:
