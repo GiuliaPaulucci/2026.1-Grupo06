@@ -336,7 +336,7 @@ As recomendações deverão priorizar os problemas com maior severidade.
 | Média | Melhorar rótulos dos menus | Confusão entre matrícula, creche, PEBI e transferência |
 | Baixa | Padronizar ícones e nomenclaturas | Melhoria estética e de consistência |
 
-## 11. Aspectos Éticos
+## 10.8 Aspectos Éticos
 
 A avaliação seguirá os princípios éticos de autonomia, beneficência, não maleficência,
 justiça e equidade, conforme definido nos Aspectos Éticos do projeto.
