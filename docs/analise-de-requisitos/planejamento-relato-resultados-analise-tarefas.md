@@ -108,6 +108,45 @@ Os modelos de análise de tarefas serão avaliados com base nos seguintes crité
 | Adequação ao usuário | A tarefa considera o perfil, limitações e contexto de uso da persona? |
 | Utilidade para o redesign | O modelo ajuda a propor melhorias para a interface? |
 
+### 7.1 Perguntas Específicas por Funcionalidade
+
+Além dos critérios gerais, cada funcionalidade será avaliada com perguntas específicas:
+
+**Matrícula PEBI**
+
+- O responsável consegue entender a diferença entre PEBI e matrícula comum?
+- O fluxo deixa claro quais documentos são necessários antes de iniciar?
+- O usuário consegue entender o que acontece após o envio da solicitação?
+- O resultado da solicitação é apresentado de forma compreensível?
+
+**Solicitação de vaga em creche**
+
+- O usuário sabe qual documentação precisa separar antes de iniciar o processo?
+- O fluxo diferencia claramente a solicitação de vaga da matrícula regular?
+- O usuário entende quem analisa o pedido e em quanto tempo receberá retorno?
+- Existem ambiguidades nos rótulos ou nas etapas do processo?
+
+**Atendimento Domiciliar**
+
+- O responsável consegue entender quais etapas dependem dele e quais dependem da escola?
+- O fluxo deixa claro o que é o atestado médico e como deve ser enviado?
+- O usuário consegue acompanhar o andamento da solicitação de forma clara?
+- O modelo representa adequadamente a comunicação entre responsável, escola e SEEDF?
+
+**Atendimento Domiciliar — Professor**
+
+- O professor consegue entender como planejar e enviar atividades pelo sistema?
+- O fluxo representa adequadamente as tarefas simultâneas de recebimento e avaliação?
+- Os prazos de devolução estão claramente representados no modelo?
+- O modelo deixa claro como registrar o progresso do estudante?
+
+**Transferência Escolar**
+
+- O usuário entende quais documentos são necessários para solicitar a transferência?
+- O fluxo diferencia claramente a transferência voluntária da compulsória?
+- O modelo representa adequadamente a comunicação entre a escola de origem e a de destino?
+- O usuário consegue entender o prazo e as etapas até a conclusão da transferência?
+
 ## 8. Instrumentos de Coleta
 
 Durante a avaliação, serão utilizados os seguintes instrumentos:
@@ -119,6 +158,49 @@ Durante a avaliação, serão utilizados os seguintes instrumentos:
 | Escala de severidade | Classificar a gravidade dos problemas encontrados. |
 | Campo de observações | Registrar comentários qualitativos dos avaliadores. |
 | Questionário curto | Coletar percepção dos usuários sobre clareza e compreensão do fluxo. |
+
+## 8. Roteiro de Entrevista
+
+O roteiro a seguir deverá ser utilizado pelos avaliadores durante as entrevistas com os
+usuários convidados. As perguntas são semiestruturadas, permitindo aprofundamento
+conforme as respostas dos participantes.
+
+### 8.1 Abertura
+
+> "Olá, obrigado por participar desta avaliação. Meu nome é [nome do avaliador] e faço
+> parte de um grupo da disciplina de Interação Humano-Computador da UnB. O objetivo desta
+> conversa é entender como você percebe o fluxo de [nome da funcionalidade] no sistema de
+> matrículas do DF. Não existem respostas certas ou erradas. Vou apresentar um diagrama
+> do processo e gostaria que você me dissesse o que entende de cada etapa."
+
+### 8.2 Perguntas de aquecimento
+
+| # | Pergunta |
+|---|---|
+| 1 | Você já utilizou o sistema de matrículas do DF anteriormente? |
+| 2 | Com que frequência você acessa serviços digitais da Secretaria de Educação? |
+| 3 | Você costuma usar computador ou celular para acessar esses serviços? |
+
+### 8.3 Perguntas sobre o modelo de tarefa
+
+| # | Pergunta |
+|---|---|
+| 4 | Ao observar este diagrama, você consegue identificar qual é o objetivo principal da tarefa? |
+| 5 | As etapas apresentadas fazem sentido para você? Existe alguma que parece fora de ordem? |
+| 6 | Existe alguma etapa que você considera desnecessária ou confusa? |
+| 7 | Existe alguma etapa que você esperaria encontrar mas que não está representada? |
+| 8 | Em qual etapa você acha que teria mais dificuldade? Por quê? |
+| 9 | Você consegue identificar claramente o que depende de você e o que depende do sistema ou da escola? |
+| 10 | As informações apresentadas em cada etapa são suficientes para você saber o que fazer? |
+
+### 8.4 Perguntas de encerramento
+
+| # | Pergunta |
+|---|---|
+| 11 | De forma geral, você considera o fluxo apresentado claro e fácil de seguir? |
+| 12 | Você tem alguma sugestão de melhoria para este processo? |
+| 13 | Há algo que gostaria de comentar que ainda não foi abordado? |
+
 
 ## 9. Classificação dos Problemas
 
