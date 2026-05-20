@@ -1,43 +1,74 @@
+# Planejamento da Avaliação do Storyboard
+
 ## Introdução
 
 Este documento apresenta o planejamento da avaliação do storyboard produzido pelo grupo. O objetivo é definir como a avaliação será realizada, quais critérios serão utilizados e como os resultados serão registrados.
 
-## Objetivo da Avaliação
+A avaliação será conduzida utilizando o framework DECIDE, amplamente utilizado na área de Interação Humano-Computador para auxiliar no planejamento de avaliações de interfaces e artefatos interativos.
+
+| Etapa DECIDE | Aplicação no projeto |
+|---|---|
+| Determine | Definição dos objetivos da avaliação |
+| Explore | Elaboração das perguntas avaliativas |
+| Choose | Escolha dos métodos de avaliação |
+| Identify | Identificação das questões práticas |
+| Decide | Definição das questões éticas |
+| Evaluate | Interpretação e apresentação dos resultados |
+
+## D - Determinar os objetivos da avaliação
 
 O objetivo da avaliação é verificar se o storyboard comunica de forma clara o contexto de uso, os usuários envolvidos, a tarefa representada e a sequência das ações realizadas.
 
-## Método de Avaliação
+Busca-se identificar possíveis dificuldades de compreensão, inconsistências visuais e problemas relacionados à representação da interação proposta pelo storyboard.
 
-A avaliação será realizada por meio de uma lista de verificação. Essa técnica foi escolhida por permitir uma análise objetiva dos elementos presentes no storyboard, facilitando a identificação de pontos fortes e problemas de comunicação visual.
+## E - Explorar as perguntas da avaliação
 
-## Artefato Avaliado
+As seguintes perguntas irão guiar a avaliação:
 
-O artefato avaliado será o storyboard elaborado pelo grupo, relacionado ao sistema de matrícula da Secretaria de Educação do Distrito Federal.
+- O storyboard apresenta claramente os usuários envolvidos?
+- O contexto de uso está compreensível?
+- A tarefa apresentada está clara?
+- As cenas seguem uma sequência lógica?
+- Os elementos visuais comunicam adequadamente as ideias?
+- Existe coerência entre as cenas?
+- O fluxo de interação é fácil de compreender?
+
+## C - Escolher os métodos de avaliação
+
+A avaliação será realizada por meio de uma lista de verificação baseada em critérios de storyboard e interação humano-computador.
+
+Essa técnica foi escolhida por permitir uma análise objetiva dos elementos presentes no storyboard, facilitando a identificação de pontos fortes e problemas de comunicação visual.
+
+Também poderá ser realizado um teste piloto com participantes para verificar se a sequência das cenas e a interação representada são facilmente compreendidas.
 
 ## Critérios de Avaliação
 
-Serão observados os seguintes critérios:
+| Critério | Descrição |
+|---|---|
+| Clareza dos usuários | Verificar se os usuários envolvidos estão claramente representados |
+| Contexto de uso | Avaliar se o ambiente e situação estão compreensíveis |
+| Sequência das ações | Verificar se as cenas seguem uma ordem lógica |
+| Comunicação visual | Avaliar se os elementos gráficos ajudam na compreensão |
+| Coerência | Verificar consistência entre as cenas |
+| Facilidade de entendimento | Avaliar se o fluxo é facilmente compreendido |
 
-- Clareza na representação dos usuários envolvidos;
-- Identificação do contexto de uso;
-- Clareza da tarefa apresentada;
-- Sequência lógica das cenas;
-- Comunicação visual das ideias;
-- Coerência entre as cenas;
-- Facilidade de entendimento do fluxo de interação.
+## I - Identificar questões práticas
 
-## Participantes da Avaliação
+### Participantes da Avaliação
 
-A avaliação será realizada pelos integrantes do grupo, utilizando a lista de verificação definida para storyboard.
+| Participante | Função |
+|---|---|
+| Integrantes do grupo | Aplicação da avaliação |
+| Usuários convidados | Participação do teste piloto |
 
-## Materiais Utilizados
+### Materiais Utilizados
 
 - Storyboard produzido pelo grupo;
 - Lista de verificação para storyboard;
 - Referências utilizadas na disciplina;
 - GitHub Pages para documentação dos resultados.
 
-## Procedimento
+### Procedimento
 
 1. Acessar o storyboard produzido pelo grupo;
 2. Ler a lista de verificação definida;
@@ -45,6 +76,18 @@ A avaliação será realizada pelos integrantes do grupo, utilizando a lista de 
 4. Registrar se o item foi atendido, parcialmente atendido ou não atendido;
 5. Anotar observações relevantes;
 6. Consolidar os resultados da avaliação.
+
+## D - Decidir como lidar com questões éticas
+
+Caso haja participação de usuários durante o teste piloto, os participantes serão informados sobre os objetivos da avaliação.
+
+Nenhum dado pessoal será divulgado, garantindo a privacidade e confidencialidade das informações coletadas.
+
+## E - Avaliar, interpretar e apresentar os dados
+
+Os resultados serão organizados com base nas respostas obtidas na lista de verificação e nas observações registradas durante a avaliação.
+
+Posteriormente, os dados serão apresentados em forma de relatório, destacando pontos positivos, problemas encontrados e sugestões de melhoria.
 
 ## Cronograma
 
@@ -65,4 +108,5 @@ Storyboarding. Disponível em: https://youtu.be/h2H3oIQtddU. Acesso em: 12 maio 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
-| 1.0 | 14/05/2026 | Criação do planejamento da avaliação do storyboard | [Giulia Paulucci](https://github.com/GiuliaPaulucci) | - |
+| 1.0 | 19/05/2026 | Criação do planejamento da avaliação do storyboard | [Giulia Paulucci](https://github.com/GiuliaPaulucci) | - |
+| 1.1 | 19/05/2026 | Ajustes | [Giulia Paulucci](https://github.com/GiuliaPaulucci) | - |
