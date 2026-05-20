@@ -199,6 +199,13 @@ Abaixo seguem os vídeos feitos do teste piloto de cada analise de tarefa elabor
 
 <font size="3"><p style="text-align: center">Autor: [Ígor Veras](https://github.com/igorvdaniel).</p></font>
 
+<p style="text-align: center"><a href="https://www.youtube.com/embed/eaL0rDLUx7w" target="blanket">Matrícula PEBI</a></p>
+
+
+<p style="text-align: center"><iframe width="1863" height="754" src="https://www.youtube.com/embed/eaL0rDLUx7w" title="Teste piloto verificação análise de tarefas Matrícula PEBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Autor: [Matheus Pinheiro](https://github.com/matheus-06).</p></font>
+
 ### Objetivos do Piloto
 
 - Verificar a clareza das instruções;
@@ -241,3 +248,4 @@ Os resultados do teste piloto não serão incorporados aos resultados finais da 
 | Versão | Data       | Descrição | Autor(es)| Revisor(es) |
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
 | `1.0`  | 19/05/2026 | Criação da página                        | [Matheus](https://github.com/matheus-06)||
+| `1.1`  | 19/05/2026 | Adição do vídeo de teste piloto          | [Matheus](https://github.com/matheus-06)||
