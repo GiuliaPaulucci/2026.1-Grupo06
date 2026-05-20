@@ -51,7 +51,6 @@ nav:
       - Características da Plataforma: analise-de-requisitos/caracteristicas.md
       - Guia de estilo: analise-de-requisitos/Guia_de_Estilo.md
       - Metas de Usabilidade: analise-de-requisitos/Metas_de_Usabilidade.md
-      - Planejamento do relato dos resultados da avaliação da análise de tarefas: analise-de-requisitos/planejamento-relato-resultados-analise-tarefas.md
       
       
       - Perfil de Usuário:
@@ -91,6 +90,7 @@ nav:
 
   - Design Avaliação e Desenvolvimento: 
     - Planejamento da avaliação de analise de tarefas: analise-de-requisitos/planejamento-avaliacao-da-analise-de-tarefas.md
+    - Planejamento do relato dos resultados da avaliação da análise de tarefas: analise-de-requisitos/planejamento-relato-resultados-analise-tarefas.md
     - Verificação e planejamento do storyboard: design-avaliacao-e-desenvolvimento/planejamentostoy-board/verificacaplanejamento-avaliacao-storyboard.md
     - Planejamento do Relato dos Resultados do Storyboard: design-avaliacao-e-desenvolvimento/avaliacao-planejamento-storyboard/relato-resultados-storyboard.md
 theme:
