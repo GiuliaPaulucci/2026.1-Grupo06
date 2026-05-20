@@ -65,7 +65,7 @@ Cada funcionalidade utilizará um método de avaliação específico.
 
 | Funcionalidade | Método | Modalidade | Participantes |
 |---|---|---|---|
-| Transferência Escolar | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
+| Transferência Escolar | Entrevista com usuário | Presencial | 2 |
 | Matrícula PEBI | Questionário Remoto | Remoto | > 10 |
 | Ensino Especial | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
 | Creche | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
@@ -105,16 +105,21 @@ Os equipamentos previstos para a avaliação incluem:
 
 Tempo estimado:
 - Questionário matrícula PEBI (Online): aproximadamente 8 minutos por participante.
+- Entrevista com usuário: aproximadamente 10 minutos por participante.
 
 ### Recursos Necessários
 - Questionário Online:
   - Internet;
   - Plataforma de formulário remoto;
   - Computadores e dispositivos móveis.
+- Entrevista com usuário:
+  - Computadores e dispositivos móveis.
+  - Acesso à internet;
 
 ### Equipe Responsável
 
 - Questionário Online: Matheus Pinheiro
+- Entrevista com Usuário (Transferência Escolar): Ígor Veras
 
 ---
 
