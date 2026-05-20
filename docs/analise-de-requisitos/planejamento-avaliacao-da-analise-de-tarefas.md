@@ -13,19 +13,19 @@ A escolha do site foi motivada pela necessidade de avaliar a clareza e acessibil
 
 Além disso, páginas desse tipo frequentemente apresentam linguagem institucional e grande volume de informações, fatores que podem impactar diretamente a experiência do usuário.
 
-A escolha do site também está alinhada ao planejamento definido no [Processo de Design do projeto](), estruturado a partir do framework DECIDE e do ciclo de vida para Engenharia de Usabilidade de Mayhew, garantindo coerência entre os objetivos da avaliação e o sistema analisado.
+A escolha do site também está alinhada ao planejamento definido no [Processo de Design do projeto](), estruturado a partir do framework DECIDE e do ciclo de vida para Engenharia de Usabilidade de Mayhew[[1]](#FONTE1), garantindo coerência entre os objetivos da avaliação e o sistema analisado.
 
 ---
 
 ## 2. Framework DECIDE
 
-O planejamento da avaliação foi estruturado com base nas seis etapas do framework DECIDE.
+O planejamento da avaliação foi estruturado com base nas seis etapas do framework DECIDE seguindo o livro Interação Humano-Computador 1° edição de Simone Barbosa[[2]](#FONTE2).
 
 ---
 
-## D -  Determinar os Objetivos
+## D -  Determinar os Objetivos[[3]](#FONTE3)
 
-O principal objetivo da avaliação é identificar problemas de interação e usabilidade presentes no portal Educação DF.
+O principal objetivo da avaliação é identificar problemas de interação e na interface presentes no portal Educação DF.
 
 Os objetivos específicos incluem:
 
@@ -47,12 +47,14 @@ As funcionalidades avaliadas serão:
 
 ---
 
-## E - Explorar Perguntas Específicas
+## E - Explorar Perguntas Específicas[[4]](#FONTE4)
 
 As perguntas que guiarão a avaliação incluem:
 
+- O usuário consegue operar o sistema?
+- O usuário consegue atingir seu objetivo? com qual eficiencia, em quanto tempo e quantos erros?
+- Quais partes da interface o deixa insatisfeito?
 - O usuário consegue compreender as informações apresentadas?
-- O usuário consegue concluir a tarefa sem dificuldades?
 - Em quais etapas ocorrem erros com maior frequência?
 - Existem ambiguidades nas instruções?
 - O usuário encontra facilmente os serviços desejados?
@@ -87,7 +89,6 @@ Os métodos previstos incluem:
 ---
 
 ## I - Identificar Questões Práticas
-
 ### Perfil dos Participantes
 
 Os participantes deverão representar o público-alvo do sistema em cada funcionalidade, como:
@@ -153,17 +154,16 @@ nosso TCL pode ser encontrado na página [Aspectos Éticos](aspectos-eticos.md)
 ---
 
 ## E - Avaliar, Interpretar e Relatar os Dados
+Após a coleta dos dados, os resultados serão analisados para identificar padrões de problemas de interação e na interface.
 
-Após a coleta dos dados, os resultados serão analisados para identificar padrões de problemas de interação e usabilidade.
-
-Os problemas encontrados serão classificados por severidade em:
+Os problemas encontrados serão classificados por severidade em[[5]](#FONTE5):
 
 - 1: Sem importância
 - 2: Cosmético
 - 3: Grave
 - 4: Catastrófico
 
-e por natureza em:
+e por natureza em[[6]](#FONTE6):
 - Barreira
 - Obstáculo
 - Ruído
@@ -215,11 +215,16 @@ Abaixo seguem os vídeos feitos do teste piloto de cada analise de tarefa elabor
 
 ### Data do Teste Piloto
 
-[A DEFINIR]
+19/05/2026
 
 ### Participantes do Piloto
 
-[A DEFINIR]
+- Felipe Henrique Oliveira Sousa	
+- Giulia Paulucci da Hora Viana	
+- Igor Veras Daniel	
+- João Guilherme Santana de Oliveira	
+- Luara Cristiana da Costa e Silva	
+- Matheus Pinheiro
 
 ### Observação
 
@@ -227,19 +232,39 @@ Os resultados do teste piloto não serão incorporados aos resultados finais da 
 
 ---
 
-## 4. Cronograma
-
-| Etapa | Data | Horário | Local |
-|---|---|---|---|
-| Desenvolvimento do protótipo em papel | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
-| Teste piloto | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
-| Avaliação oficial | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
-| Consolidação dos resultados | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
-| Entrega do relatório | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
 
 ---
 
-## 5. Referências Bibliográficas
+## Referências Bibliográficas
+
+## <p id="FONTE1">1 - Fontes Processo de Mayhew.</p> 
+![Imagem Processo Mayhew](../assets/Imagens-livro/ProcessoDesign/Mayhew2.png)
+
+Fonte: BARBOSA, Simone Diniz Junqueiro; SILVA, Bruno Santana da. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier: Campus, 2010 Página: 120,Capítulo 6
+
+## <p id="FONTE2">2 - Livro: BARBOSA, Simone Diniz Junqueiro; SILVA, Bruno Santana da. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier: Campus, 2010.</p> 
+
+## <p id="FONTE3">3 - Aspectos de avaliação.</p> 
+![alt text](image-1.png)
+
+Fonte: BARBOSA, Simone Diniz Junqueiro; SILVA, Bruno Santana da. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier: Campus, 2010 Página: 264,Capítulo 11
+
+## <p id="FONTE4">4 - Perguntas de interação e interface.</p> 
+![alt text](image.png)
+
+Fonte: BARBOSA, Simone Diniz Junqueiro; SILVA, Bruno Santana da. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier: Campus, 2010 Página: 266,Capítulo 11
+
+## <p id="FONTE5">5 - Severidade do problema.</p> 
+![alt text](image-3.png)
+
+Fonte: MACIEL, Cristiano; NOGUEIRA, José Luis T.; CIUFFO, Leandro Neumann; GARCIA, Ana Cristina Bicharra. Avaliação Heurística de Sítios na Web. Niterói: Instituto de Computação – UFF, 2004. Página 4, Tópico 2
+
+## <p id="FONTE6">6 - Natureza do problema.</p> 
+![alt text](image-2.png)
+
+Fonte: MACIEL, Cristiano; NOGUEIRA, José Luis T.; CIUFFO, Leandro Neumann; GARCIA, Ana Cristina Bicharra. Avaliação Heurística de Sítios na Web. Niterói: Instituto de Computação – UFF, 2004. Página 3, Tópico 2
+
+---
 
 ---
 
@@ -249,3 +274,4 @@ Os resultados do teste piloto não serão incorporados aos resultados finais da 
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
 | `1.0`  | 19/05/2026 | Criação da página                        | [Matheus](https://github.com/matheus-06)||
 | `1.1`  | 19/05/2026 | Adição do vídeo de teste piloto          | [Matheus](https://github.com/matheus-06)||
+| `1.2`  | 19/05/2026 | Adição das referências linkadas          | [Matheus](https://github.com/matheus-06)||
