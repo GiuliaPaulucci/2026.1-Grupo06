@@ -8,13 +8,13 @@ Este documento estabelece as diretrizes e a estrutura que serão adotadas para r
 
 ## 2. Base Metodológica
 
-A estrutura deste planejamento baseia-se nos métodos de Interação Humano-Computador (IHC). Segundo Barbosa et al. (2021), ao reunir os resultados, a equipe precisa  comparar as respostas de todos os usuários para encontrar padrões e dificuldades em comum. Depois, o relatório final deve ser organizado de forma clara, mostrando desde o objetivo do teste até as soluções para melhorar o sistema. Por isso, o nosso documento conterá os seguintes tópicos: 
+A estrutura deste planejamento baseia-se nos métodos de Interação Humano-Computador (IHC). Segundo Barbosa et al. (2021), ao reunir os resultados, a equipe precisa  comparar as respostas de todos os usuários para encontrar padrões e dificuldades em comum [1](../../assets/relato_resultado_storyboard/metodologia.png). Depois, o relatório final deve ser organizado de forma clara, mostrando desde o objetivo do teste até as soluções para melhorar o sistema. Por isso, o nosso documento conterá os seguintes tópicos[2](../../assets/relato_resultado_storyboard/topicos_resultado.png): 
 
 ## 3. Estrutura do Relato de Resultados
 
 ### 3.1. Objetivo e escopo de avaliação
 
-Nesta primeira parte do documento, devemos relembrar os objetivos principais do tstoryboard nesse caso, validar ideias do design, discorrer sobre as dificuldades no portal da SEEDF. Também é preciso deixar claro o que foi avaliado, especificando quais tarefas os usuários validaram durante a seção.
+Nesta primeira parte do documento, devemos relembrar os objetivos principais do storyboard nesse caso, validar ideias do design, discorrer sobre as dificuldades no portal da SEEDF. Também é preciso deixar claro o que foi avaliado, especificando quais tarefas os usuários validaram durante a seção.
 
 ### 3.2. A forma como a avaliação foi realizada
 
@@ -86,3 +86,4 @@ A modelagem deste roteiro de relato está estritamente alinhada com as recomenda
 | Versão | Data       | Descrição                                | Autor(es)          | Data de revisão   | Revisor(es) |
 | ------ | ---------- | ---------------------------------------- |--------------------| ------------------| ----------- |
 | `1.0`  | 19/05/2026 | Criação da página, inserção dos tópicos e bibliográfias       | [Luara Cristiana](https://github.com/luacristiana) | -- |    -- |
+| `1.1`  | 19/05/2026 | Inserção das imagens e referências     | [Ígor Veras](https://github.com/igorvdaniel) |             | |
