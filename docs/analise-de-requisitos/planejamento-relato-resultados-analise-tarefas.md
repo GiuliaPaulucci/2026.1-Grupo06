@@ -206,7 +206,23 @@ conforme as respostas dos participantes.
 
 Os problemas encontrados serão classificados por natureza e severidade, conforme o planejamento da avaliação já definido pelo grupo.
 
-### 9.1 Classificação por Natureza
+### 9.1 Ferramentas de Registro
+
+As seguintes ferramentas serão utilizadas para registro e documentação das entrevistas:
+
+| Ferramenta | Finalidade |
+|---|---|
+| Microsoft Teams ou Google Meet | Realização e gravação das entrevistas remotas |
+| OBS Studio | Gravação de tela e áudio como alternativa local |
+| Google Forms | Aplicação do questionário de percepção do usuário |
+| Google Docs / repositório do projeto | Registro das anotações e consolidação dos resultados |
+| Diagrama HTA/CTT impresso ou em PDF | Apresentação dos modelos durante a entrevista |
+
+> Todos os participantes deverão consentir com a gravação antes do início da entrevista.
+> Caso o participante não autorize a gravação, as entrevistas serão documentadas apenas
+> por meio de anotações escritas pelo anotador.
+
+### 9.2 Classificação por Natureza
 
 | Natureza | Descrição |
 |---|---|
@@ -214,7 +230,7 @@ Os problemas encontrados serão classificados por natureza e severidade, conform
 | Obstáculo | Problema que dificulta a execução da tarefa, exigindo esforço adicional do usuário. |
 | Barreira | Problema grave que impede o usuário de concluir a tarefa. |
 
-### 9.2 Classificação por Severidade
+### 9.3 Classificação por Severidade
 
 | Grau | Classificação | Descrição |
 |---|---|---|
