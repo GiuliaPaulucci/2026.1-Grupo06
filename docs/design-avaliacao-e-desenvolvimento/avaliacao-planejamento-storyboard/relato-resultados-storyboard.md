@@ -8,7 +8,7 @@ Este documento estabelece as diretrizes e a estrutura que serão adotadas para r
 
 ## 2. Base Metodológica
 
-A estrutura deste planejamento baseia-se nos métodos de Interação Humano-Computador (IHC). Segundo Barbosa et al. (2021), ao reunir os resultados, a equipe precisa  comparar as respostas de todos os usuários para encontrar padrões e dificuldades em comum [1](../../assets/relato_resultado_storyboard/metodologia.png). Depois, o relatório final deve ser organizado de forma clara, mostrando desde o objetivo do teste até as soluções para melhorar o sistema. Por isso, o nosso documento conterá os seguintes tópicos[2](../../assets/relato_resultado_storyboard/topicos_resultado.png): 
+A estrutura deste planejamento baseia-se nos métodos de Interação Humano-Computador (IHC). Segundo Barbosa et al. (2021), ao reunir os resultados, a equipe precisa  comparar as respostas de todos os usuários para encontrar padrões e dificuldades em comum [1](../../assets/relato_resultados_storyboard/metodologia.png). Depois, o relatório final deve ser organizado de forma clara, mostrando desde o objetivo do teste até as soluções para melhorar o sistema. Por isso, o nosso documento conterá os seguintes tópicos [2](../../assets/relato_resultados_storyboard/topicos_resultado.png):
 
 ## 3. Estrutura do Relato de Resultados
 
