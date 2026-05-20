@@ -336,6 +336,26 @@ As recomendações deverão priorizar os problemas com maior severidade.
 | Média | Melhorar rótulos dos menus | Confusão entre matrícula, creche, PEBI e transferência |
 | Baixa | Padronizar ícones e nomenclaturas | Melhoria estética e de consistência |
 
+## 11. Aspectos Éticos
+
+A avaliação seguirá os princípios éticos de autonomia, beneficência, não maleficência,
+justiça e equidade, conforme definido nos Aspectos Éticos do projeto.
+
+Todos os participantes deverão assinar o Termo de Consentimento Livre e Esclarecido
+(TCLE) antes do início das atividades. O termo informa que:
+
+- a participação é voluntária e pode ser interrompida a qualquer momento;
+- os dados serão utilizados exclusivamente para fins acadêmicos no âmbito da
+disciplina de IHC/UnB;
+- a identidade dos participantes será mantida em sigilo nos documentos publicados;
+- as gravações poderão ser utilizadas nos resultados do projeto, mediante autorização
+expressa do participante;
+- caso o participante seja menor de idade, será necessária autorização do responsável
+legal.
+
+O TCLE completo pode ser encontrado na página de [Aspectos Éticos](aspectos-eticos.md) do projeto.
+
+
 ## 11. Teste Piloto
 
 Antes da avaliação oficial, será realizado um teste piloto com o objetivo de validar o roteiro e os instrumentos de coleta.
@@ -401,4 +421,6 @@ BARBOSA, Simone D. J.; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPAR
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
-| `1.0`  | 19/05/2026 | Criação do documento  | [Felipe Henrique](https://github.com/fhenrique77) |             |
+| `1.0`  | 19/05/2026 | Criação do documento  | [Felipe Henrique](https://github.com/fhenrique77) |     |
+| `1.1`  | 19/05/2026 | Complementando o documento  | [Joao Guilherme](https://github.com/JoaoGSantana10) |       |
+
