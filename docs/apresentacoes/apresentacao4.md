@@ -4,7 +4,7 @@ O objetivo dessa página é apresentar o vídeo de entrega da apresentação 4 d
 
 
 <p align="center">
-  <a href="https://www.youtube.com/embed/3P8KztZSGp8" target="_blank">
+  <a href="https://www.youtube.com/watch?v=3P8KztZSGp8" target="_blank">
     Acessar vídeo no YouTube
   </a>
 </p>

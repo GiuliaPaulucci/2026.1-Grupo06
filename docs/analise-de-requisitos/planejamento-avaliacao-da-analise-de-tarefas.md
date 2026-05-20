@@ -192,14 +192,14 @@ Antes da avaliação oficial será realizado um teste piloto.
 
 Abaixo seguem os vídeos feitos do teste piloto de cada analise de tarefa elaborada, cada integrante ficou responsável por realizar o teste piloto das funcionaldiades que avaliaram.
 
-<p style="text-align: center"><a href="https://www.youtube.com/embed/ZPUZOT0u2kU" target="blanket">Transferência Escolar</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=ZPUZOT0u2kU" target="blanket">Transferência Escolar</a></p>
 
 
 <p style="text-align: center"><iframe width="1863" height="754" src="https://www.youtube.com/embed/ZPUZOT0u2kU" title="Teste piloto verificação análise de tarefas transferência escolar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Autor: [Ígor Veras](https://github.com/igorvdaniel).</p></font>
 
-<p style="text-align: center"><a href="https://www.youtube.com/embed/eaL0rDLUx7w" target="blanket">Matrícula PEBI</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=eaL0rDLUx7w" target="blanket">Matrícula PEBI</a></p>
 
 
 <p style="text-align: center"><iframe width="1863" height="754" src="https://www.youtube.com/embed/eaL0rDLUx7w" title="Teste piloto verificação análise de tarefas Matrícula PEBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
@@ -215,7 +215,7 @@ Abaixo seguem os vídeos feitos do teste piloto de cada analise de tarefa elabor
 
 <font size="3"><p style="text-align: center">Autor: [Luara Cristiana](https://github.com/luacristiana).</p></font>
 
-<p style="text-align: center"><a href="https://www.youtube.com/embed/TBPbU4wRkdI" target="blanket">Serviço especial</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=TBPbU4wRkdI" target="blanket">Serviço especial</a></p>
 
 <p style="text-align: center"><iframe width="465" height="827" src="https://www.youtube.com/embed/TBPbU4wRkdI" title="19 de maio de 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
