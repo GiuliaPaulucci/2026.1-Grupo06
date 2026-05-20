@@ -31,6 +31,7 @@ nav:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
       - Apresentação 3: apresentacoes/apresentacao3.md
+      - Apresentação 4: apresentacoes/apresentacao4.md      
 
   - Reuniões:
       - Heatmap: reunioes/heatmap.md
@@ -86,7 +87,9 @@ nav:
           - Etapa 2:
               - Grupo 5: verificacao/grupo_outro/etapa2/resultado-verificacao-etapa2-grupo-5.md
           - Etapa 3:
-              - Grupo 5: verificacao/grupo_outro/etapa3/resultado-verificacao-etapa3-grupo-7.md
+              - Grupo 7: verificacao/grupo_outro/etapa3/resultado-verificacao-etapa3-grupo-7.md
+          - Etapa 4:
+              - Grupo 5: verificacao/grupo_outro/etapa4/resultado-verificacao-etapa4-grupo-5.md
 
   - Design Avaliação e Desenvolvimento: 
     - Planejamento da avaliação de analise de tarefas: analise-de-requisitos/planejamento-avaliacao-da-analise-de-tarefas.md
