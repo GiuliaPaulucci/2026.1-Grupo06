@@ -104,7 +104,7 @@ Os equipamentos previstos para a avaliação incluem:
 ### Duração da Avaliação
 
 Tempo estimado:
-- Questionário matrícula PEBI (Online): aproximadamente 8 minutos por participante.
+- Questionário matrícula PEBI (Online): aproximadamente 4 minutos por participante.
 - Entrevista com usuário: aproximadamente 10 minutos por participante.
 
 ### Recursos Necessários
