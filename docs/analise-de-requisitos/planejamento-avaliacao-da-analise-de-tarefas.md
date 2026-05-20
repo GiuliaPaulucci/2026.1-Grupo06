@@ -70,7 +70,7 @@ Cada funcionalidade utilizará um método de avaliação específico.
 | Transferência Escolar | Entrevista com usuário | Presencial | 2 |
 | Matrícula PEBI | Questionário Remoto | Remoto | > 10 |
 | Ensino Especial | Entrevista com usuário | Presencial | 2 |
-| Creche | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
+| Creche |Entrevista com usuario | Presencial| 2 |
 | Painel Educacional | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
 | Atendimento Domiciliar | Questionário Remoto | Remoto | > 5 |
 | Atendimento Domiciliar (Professor) | Entrevista com o professor | Presencial | 2 |
