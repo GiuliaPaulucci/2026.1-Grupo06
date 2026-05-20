@@ -336,7 +336,7 @@ As recomendações deverão priorizar os problemas com maior severidade.
 | Média | Melhorar rótulos dos menus | Confusão entre matrícula, creche, PEBI e transferência |
 | Baixa | Padronizar ícones e nomenclaturas | Melhoria estética e de consistência |
 
-## 10.8 Aspectos Éticos
+## 11. Aspectos Éticos
 
 A avaliação seguirá os princípios éticos de autonomia, beneficência, não maleficência,
 justiça e equidade, conforme definido nos Aspectos Éticos do projeto.
@@ -356,7 +356,7 @@ legal.
 O TCLE completo pode ser encontrado na página de [Aspectos Éticos](aspectos-eticos.md) do projeto.
 
 
-## 11. Teste Piloto
+## 11.1. Teste Piloto
 
 Antes da avaliação oficial, será realizado um teste piloto com o objetivo de validar o roteiro e os instrumentos de coleta.
 
