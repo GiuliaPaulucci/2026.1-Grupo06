@@ -13,7 +13,7 @@ A escolha do site foi motivada pela necessidade de avaliar a clareza e acessibil
 
 Além disso, páginas desse tipo frequentemente apresentam linguagem institucional e grande volume de informações, fatores que podem impactar diretamente a experiência do usuário.
 
-A escolha do site também está alinhada ao planejamento definido no [Processo de Design do projeto](), estruturado a partir do framework DECIDE e do ciclo de vida para Engenharia de Usabilidade de Mayhew[[1]](#FONTE1), garantindo coerência entre os objetivos da avaliação e o sistema analisado.
+A escolha do site também está alinhada ao planejamento definido no [Processo de Design do projeto](../planejamento/processo-design.md), estruturado a partir do framework DECIDE e do ciclo de vida para Engenharia de Usabilidade de Mayhew[[1]](#FONTE1), garantindo coerência entre os objetivos da avaliação e o sistema analisado.
 
 ---
 
