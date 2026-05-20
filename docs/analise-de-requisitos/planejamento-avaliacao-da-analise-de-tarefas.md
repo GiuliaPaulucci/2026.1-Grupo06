@@ -70,8 +70,8 @@ Cada funcionalidade utilizará um método de avaliação específico.
 | Ensino Especial | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
 | Creche | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
 | Painel Educacional | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
-| Atendimento Domiciliar | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
-| Atendimento Domiciliar (Professor) | [A DEFINIR] | [A DEFINIR] | [A DEFINIR] |
+| Atendimento Domiciliar | Questionário Remoto | Remoto | > 5 |
+| Atendimento Domiciliar (Professor) | Entrevista com o professor | Presencial | 2 |
 
 Os métodos previstos incluem:
 
@@ -179,7 +179,7 @@ O relatório final deverá conter:
 - recomendações de melhoria;
 - resultados consolidados.
 
-Mais informações podem ser encontradas em [Planejamento da Avaliação do relato dos resultados da avaliação da análise de tarefas]()
+Mais informações podem ser encontradas em [Planejamento da Avaliação do relato dos resultados da avaliação da análise de tarefas](planejamento-relato-resultados-analise-tarefas.md)
 
 ---
 
