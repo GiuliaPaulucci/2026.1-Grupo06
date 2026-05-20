@@ -148,7 +148,7 @@ O termo informa que:
 
 Caso o participante seja menor de idade, será necessária autorização do responsável legal.
 
-nosso TCL pode ser encontrado na página [Aspectos Éticos]()
+nosso TCL pode ser encontrado na página [Aspectos Éticos](aspectos-eticos.md)
 
 ---
 

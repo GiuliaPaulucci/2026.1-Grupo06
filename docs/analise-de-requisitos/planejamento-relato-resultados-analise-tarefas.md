@@ -77,6 +77,21 @@ O relato deve identificar os participantes envolvidos na avaliação, preservand
 | U01 | Usuário convidado | Responsável legal | Validar entendimento do fluxo |
 | U02 | Usuário convidado | Professor | Validar tarefas do atendimento domiciliar docente |
 
+### 6.1 Perfil Detalhado dos Usuários Convidados
+
+Para garantir que os participantes representem adequadamente o público-alvo do sistema,
+os usuários convidados deverão atender ao seguinte perfil:
+
+| Característica | U01 — Responsável Legal | U02 — Professor |
+|---|---|---|
+| Faixa etária | 25 a 50 anos | 25 a 55 anos |
+| Escolaridade mínima | Ensino médio completo | Ensino superior completo |
+| Familiaridade com tecnologia | Básica a intermediária | Básica a intermediária |
+| Relação com o sistema | Já realizou ou tentou realizar matrícula na rede pública do DF | Já realizou ou acompanha atendimento domiciliar |
+| Frequência de uso | Esporádica (uma vez por ano) | Ocasional (conforme demanda) |
+| Dispositivo habitual | Smartphone Android ou computador | Computador ou notebook |
+
+
 ## 7. Critérios de Avaliação
 
 Os modelos de análise de tarefas serão avaliados com base nos seguintes critérios:
@@ -93,6 +108,45 @@ Os modelos de análise de tarefas serão avaliados com base nos seguintes crité
 | Adequação ao usuário | A tarefa considera o perfil, limitações e contexto de uso da persona? |
 | Utilidade para o redesign | O modelo ajuda a propor melhorias para a interface? |
 
+### 7.1 Perguntas Específicas por Funcionalidade
+
+Além dos critérios gerais, cada funcionalidade será avaliada com perguntas específicas:
+
+**Matrícula PEBI**
+
+- O responsável consegue entender a diferença entre PEBI e matrícula comum?
+- O fluxo deixa claro quais documentos são necessários antes de iniciar?
+- O usuário consegue entender o que acontece após o envio da solicitação?
+- O resultado da solicitação é apresentado de forma compreensível?
+
+**Solicitação de vaga em creche**
+
+- O usuário sabe qual documentação precisa separar antes de iniciar o processo?
+- O fluxo diferencia claramente a solicitação de vaga da matrícula regular?
+- O usuário entende quem analisa o pedido e em quanto tempo receberá retorno?
+- Existem ambiguidades nos rótulos ou nas etapas do processo?
+
+**Atendimento Domiciliar**
+
+- O responsável consegue entender quais etapas dependem dele e quais dependem da escola?
+- O fluxo deixa claro o que é o atestado médico e como deve ser enviado?
+- O usuário consegue acompanhar o andamento da solicitação de forma clara?
+- O modelo representa adequadamente a comunicação entre responsável, escola e SEEDF?
+
+**Atendimento Domiciliar — Professor**
+
+- O professor consegue entender como planejar e enviar atividades pelo sistema?
+- O fluxo representa adequadamente as tarefas simultâneas de recebimento e avaliação?
+- Os prazos de devolução estão claramente representados no modelo?
+- O modelo deixa claro como registrar o progresso do estudante?
+
+**Transferência Escolar**
+
+- O usuário entende quais documentos são necessários para solicitar a transferência?
+- O fluxo diferencia claramente a transferência voluntária da compulsória?
+- O modelo representa adequadamente a comunicação entre a escola de origem e a de destino?
+- O usuário consegue entender o prazo e as etapas até a conclusão da transferência?
+
 ## 8. Instrumentos de Coleta
 
 Durante a avaliação, serão utilizados os seguintes instrumentos:
@@ -105,11 +159,70 @@ Durante a avaliação, serão utilizados os seguintes instrumentos:
 | Campo de observações | Registrar comentários qualitativos dos avaliadores. |
 | Questionário curto | Coletar percepção dos usuários sobre clareza e compreensão do fluxo. |
 
+## 8. Roteiro de Entrevista
+
+O roteiro a seguir deverá ser utilizado pelos avaliadores durante as entrevistas com os
+usuários convidados. As perguntas são semiestruturadas, permitindo aprofundamento
+conforme as respostas dos participantes.
+
+### 8.1 Abertura
+
+> "Olá, obrigado por participar desta avaliação. Meu nome é [nome do avaliador] e faço
+> parte de um grupo da disciplina de Interação Humano-Computador da UnB. O objetivo desta
+> conversa é entender como você percebe o fluxo de [nome da funcionalidade] no sistema de
+> matrículas do DF. Não existem respostas certas ou erradas. Vou apresentar um diagrama
+> do processo e gostaria que você me dissesse o que entende de cada etapa."
+
+### 8.2 Perguntas de aquecimento
+
+| # | Pergunta |
+|---|---|
+| 1 | Você já utilizou o sistema de matrículas do DF anteriormente? |
+| 2 | Com que frequência você acessa serviços digitais da Secretaria de Educação? |
+| 3 | Você costuma usar computador ou celular para acessar esses serviços? |
+
+### 8.3 Perguntas sobre o modelo de tarefa
+
+| # | Pergunta |
+|---|---|
+| 4 | Ao observar este diagrama, você consegue identificar qual é o objetivo principal da tarefa? |
+| 5 | As etapas apresentadas fazem sentido para você? Existe alguma que parece fora de ordem? |
+| 6 | Existe alguma etapa que você considera desnecessária ou confusa? |
+| 7 | Existe alguma etapa que você esperaria encontrar mas que não está representada? |
+| 8 | Em qual etapa você acha que teria mais dificuldade? Por quê? |
+| 9 | Você consegue identificar claramente o que depende de você e o que depende do sistema ou da escola? |
+| 10 | As informações apresentadas em cada etapa são suficientes para você saber o que fazer? |
+
+### 8.4 Perguntas de encerramento
+
+| # | Pergunta |
+|---|---|
+| 11 | De forma geral, você considera o fluxo apresentado claro e fácil de seguir? |
+| 12 | Você tem alguma sugestão de melhoria para este processo? |
+| 13 | Há algo que gostaria de comentar que ainda não foi abordado? |
+
+
 ## 9. Classificação dos Problemas
 
 Os problemas encontrados serão classificados por natureza e severidade, conforme o planejamento da avaliação já definido pelo grupo.
 
-### 9.1 Classificação por Natureza
+### 9.1 Ferramentas de Registro
+
+As seguintes ferramentas serão utilizadas para registro e documentação das entrevistas:
+
+| Ferramenta | Finalidade |
+|---|---|
+| Microsoft Teams ou Google Meet | Realização e gravação das entrevistas remotas |
+| OBS Studio | Gravação de tela e áudio como alternativa local |
+| Google Forms | Aplicação do questionário de percepção do usuário |
+| Google Docs / repositório do projeto | Registro das anotações e consolidação dos resultados |
+| Diagrama HTA/CTT impresso ou em PDF | Apresentação dos modelos durante a entrevista |
+
+> Todos os participantes deverão consentir com a gravação antes do início da entrevista.
+> Caso o participante não autorize a gravação, as entrevistas serão documentadas apenas
+> por meio de anotações escritas pelo anotador.
+
+### 9.2 Classificação por Natureza
 
 | Natureza | Descrição |
 |---|---|
@@ -117,7 +230,7 @@ Os problemas encontrados serão classificados por natureza e severidade, conform
 | Obstáculo | Problema que dificulta a execução da tarefa, exigindo esforço adicional do usuário. |
 | Barreira | Problema grave que impede o usuário de concluir a tarefa. |
 
-### 9.2 Classificação por Severidade
+### 9.3 Classificação por Severidade
 
 | Grau | Classificação | Descrição |
 |---|---|---|
@@ -223,7 +336,27 @@ As recomendações deverão priorizar os problemas com maior severidade.
 | Média | Melhorar rótulos dos menus | Confusão entre matrícula, creche, PEBI e transferência |
 | Baixa | Padronizar ícones e nomenclaturas | Melhoria estética e de consistência |
 
-## 11. Teste Piloto
+## 11. Aspectos Éticos
+
+A avaliação seguirá os princípios éticos de autonomia, beneficência, não maleficência,
+justiça e equidade, conforme definido nos Aspectos Éticos do projeto.
+
+Todos os participantes deverão assinar o Termo de Consentimento Livre e Esclarecido
+(TCLE) antes do início das atividades. O termo informa que:
+
+- a participação é voluntária e pode ser interrompida a qualquer momento;
+- os dados serão utilizados exclusivamente para fins acadêmicos no âmbito da
+disciplina de IHC/UnB;
+- a identidade dos participantes será mantida em sigilo nos documentos publicados;
+- as gravações poderão ser utilizadas nos resultados do projeto, mediante autorização
+expressa do participante;
+- caso o participante seja menor de idade, será necessária autorização do responsável
+legal.
+
+O TCLE completo pode ser encontrado na página de [Aspectos Éticos](aspectos-eticos.md) do projeto.
+
+
+## 11.1. Teste Piloto
 
 Antes da avaliação oficial, será realizado um teste piloto com o objetivo de validar o roteiro e os instrumentos de coleta.
 
@@ -288,4 +421,6 @@ BARBOSA, Simone D. J.; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPAR
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
-| `1.0`  | 19/05/2026 | Criação do documento  | [Felipe Henrique](https://github.com/fhenrique77) |             |
+| `1.0`  | 19/05/2026 | Criação do documento  | [Felipe Henrique](https://github.com/fhenrique77) |     |
+| `1.1`  | 19/05/2026 | Complementando o documento  | [Joao Guilherme](https://github.com/JoaoGSantana10) |       |
+
