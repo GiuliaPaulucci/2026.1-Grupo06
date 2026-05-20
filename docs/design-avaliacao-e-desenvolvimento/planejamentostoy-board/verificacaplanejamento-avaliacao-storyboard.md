@@ -4,6 +4,8 @@
 
 Este documento apresenta o planejamento da avaliação do storyboard produzido pelo grupo. O objetivo é definir como a avaliação será realizada, quais critérios serão utilizados e como os resultados serão registrados.
 
+Os storyboards que serão avaliados pode
+
 A avaliação será conduzida utilizando o framework DECIDE, amplamente utilizado na área de Interação Humano-Computador para auxiliar no planejamento de avaliações de interfaces e artefatos interativos.
 
 | Etapa DECIDE | Aplicação no projeto |
@@ -98,6 +100,27 @@ Posteriormente, os dados serão apresentados em forma de relatório, destacando 
 | Registro dos resultados | Grupo | 14/05/2026 |
 | Revisão do documento | Grupo | 14/05/2026 |
 
+## Storyboards Elaborados
+
+#### Transferência Escolar
+![Transferência Escolar](../../assets/storyboards/transferencia.jpeg)
+
+## Planejamento do Teste Piloto
+
+De acordo com Barbosa e Silva (2021, p. 276), o teste-piloto serve para validar o próprio planejamento da pesquisa. Seu propósito é confirmar se o método escolhido realmente gera os dados necessários para responder às perguntas do estudo. Para que seja eficaz, o avaliador deve simular uma sessão real. Isso permite checar se a linguagem dos materiais e as instruções passadas aos participantes são claras, objetivas e suficientes para guiá-los adequadamente durante todo o processo.
+
+## Resultado do Teste Piloto
+
+Abaixo seguem os vídeos feitos do teste piloto de cada storyboard elaborada, cada integrante ficou responsável por realizar o teste piloto das funcionaldiades que avaliaram.
+
+<p style="text-align: center"><a href="https://www.youtube.com/embed/1fDwpkwVWf4" target="blanket">Transferência Escolar</a></p>
+
+
+<p style="text-align: center"><iframe width="1863" height="754" src="https://www.youtube.com/embed/1fDwpkwVWf4" title="teste piloto avaliação storyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Autor: [Ígor Veras](https://github.com/igorvdaniel).</p></font>
+
+
 ## Referências
 
 BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
@@ -110,3 +133,4 @@ Storyboarding. Disponível em: https://youtu.be/h2H3oIQtddU. Acesso em: 12 maio 
 |---|---|---|---|---|
 | 1.0 | 19/05/2026 | Criação do planejamento da avaliação do storyboard | [Giulia Paulucci](https://github.com/GiuliaPaulucci) | - |
 | 1.1 | 19/05/2026 | Ajustes | [Giulia Paulucci](https://github.com/GiuliaPaulucci) | - |
+| `1.2`  | 19/05/2026 | Adição do teste piloto de transferencia escolar     | [Ígor Veras](https://github.com/igorvdaniel) |             | |

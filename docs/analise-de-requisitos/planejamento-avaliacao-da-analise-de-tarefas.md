@@ -187,6 +187,18 @@ Mais informações podem ser encontradas em [Planejamento da Avaliação do rela
 
 Antes da avaliação oficial será realizado um teste piloto.
 
+
+## Resultado do Teste Piloto
+
+Abaixo seguem os vídeos feitos do teste piloto de cada analise de tarefa elaborada, cada integrante ficou responsável por realizar o teste piloto das funcionaldiades que avaliaram.
+
+<p style="text-align: center"><a href="https://www.youtube.com/embed/ZPUZOT0u2kU" target="blanket">Transferência Escolar</a></p>
+
+
+<p style="text-align: center"><iframe width="1863" height="754" src="https://www.youtube.com/embed/ZPUZOT0u2kU" title="Teste piloto verificação análise de tarefas transferência escolar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Autor: [Ígor Veras](https://github.com/igorvdaniel).</p></font>
+
 ### Objetivos do Piloto
 
 - Verificar a clareza das instruções;
