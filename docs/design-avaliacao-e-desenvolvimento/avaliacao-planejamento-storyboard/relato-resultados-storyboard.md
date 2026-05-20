@@ -16,7 +16,7 @@ A estrutura deste planejamento baseia-se nos métodos de Interação Humano-Comp
 
 Nesta primeira parte do documento, devemos relembrar os objetivos principais do tstoryboard nesse caso, validar ideias do design, discorrer sobre as dificuldades no portal da SEEDF. Também é preciso deixar claro o que foi avaliado, especificando quais tarefas os usuários validaram durante a seção.
 
-### 3.2. A forma como a avaliação foi realizada
+### 3.2. Método de avaliação empregado
 
 Esta seção será dedicada a explicar a condução prática do teste. O relator precisará descrever a técnica escolhida (Investigação por meio de Storyboards) e detalhar a dinâmica do encontro: como os desenhos foram exibidos aos participantes, o papel do moderador e os recursos utilizados para registrar a sessão.
 
@@ -24,14 +24,14 @@ Esta seção será dedicada a explicar a condução prática do teste. O relator
 
 O documento consolidado precisa evidenciar quem participou do processo, tanto do lado da equipe quanto do lado dos Perfis de usuários. O recrutamento deve espelhar as Personas estipuladas para a SEEDF, para garantir a organização e o sigilo das identidades, utilizaremos a nomenclatura do quadro abaixo.
 
-**Quadro 1 - Identificação e Perfil dos Participantes**
+**Tabela 1 - Identificação e Perfil dos Participantes**
 
 | Numero |Função na Sessão | Persona Vinculada | Idade | Perfil Ocupacional |
 | :--- |:--- | :--- | :--- | :--- |
 | 01 |Usuário Convidado | Maria Oliveira (Responsável Legal) | 38 anos | Auxiliar administrativa |
 | 02 |Usuário Convidado | Roberto (Gestor Escolar) | 52 anos | Professor de Ensino |
-| F01| Facilitador | - | - | Membro da Equipe de Design |
-| F02 |Anotador | - | - | Membro da Equipe de Design |
+| F01| Facilitador | - | - | Membro da Equipe |
+| A02 |Anotador | - | - | Membro da Equipe |
 
 *Fonte: Elaborado por Luara Cristiana*
 
@@ -39,35 +39,36 @@ O documento consolidado precisa evidenciar quem participou do processo, tanto do
 
 O responsável pela avaliação deverá transcrever o contexto apresentado ao usuário. Isso inclui o cenário  e a sequência de ações que foi solicitada ao participante durante a leitura visual do Storyboard.
 
-### 3.5. Síntese das Respostas Coletadas
+### 3.5. Sumário dos dados
 
-Os indicadores qualitativos e o grau de aceitação dos usuários em relação às narrativas visuais serão sumarizados em formato tabular. Essa consolidação é fundamental para avaliar se o modelo conceitual proposto para a SEEDF é viável antes de avançarmos para a etapa de prototipação física.
+Os indicadores qualitativos e o grau de aceitação dos usuários em relação às narrativas visuais serão sumarizados em formato de tabela. Essa consolidação é fundamental para avaliar se o modelo conceitual proposto para a SEEDF é viável antes do grupo avançar para a etapa de prototipação física, dessa forma serão padronizados na tabela: 
 
-**Tabela 1 - Consolidação da Compreensão e Aceitação**
 
-| Pessoa | Cenário Avaliado | Entendeu a lógica da tarefa? | Reconheceu os componentes da interface? | A proposta mitiga o problema atual? | Escala de Satisfação (1 a 5) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Transferência de Escola | Sim | Parcialmente | Sim | 4 |
-| 2| Emissão de Histórico Escolar | Não (Ficou em dúvida) | Sim | Parcialmente | 2 |
+**Tabela 2 - Consolidação da Compreensão e Aceitação**
+
+| Participante & Cenário | Resultados da Interação | Satisfação | Observações |
+| :--- | :--- | :--- | :--- |
+| **P1**<br>*Transferência de Escola* | **Concluiu a tarefa?** Não (Desistiu)<br>**Reconheceu interface?** Parcialmente<br>**Mitiga o problema?** Não | **2** / 5 | A utilizadora ficou confusa com o fluxo e não encontrou a opção final de confirmação. |
+| **P2**<br>*Emissão de Histórico* | **Concluiu a tarefa?** Sim (Com ajuda)<br>**Reconheceu interface?** Sim<br>**Mitiga o problema?** Parcialmente | **4** / 5 | Achou a narrativa visual clara, mas precisou de perguntar ao mediador onde o ficheiro final seria guardado. |
 
 *Fonte: Elaborado por Luara Cristiana*
 
-### 3.6. Avaliação e Interpretação dos Achados
+### 3.6. Relato e análise dos dados
 
 Nesta etapa analítica, o relatório deve expor as conclusões tiradas a partir da observação conjunta dos participantes. A equipe deve cruzar os dados para identificar padrões de comportamento, dificuldades comuns e separar o que é uma dificuldade geral do público-alvo do que foi apenas uma opinião isolada de um indivíduo.
 
-### 3.7. Inventário de Obstáculos Encontrados
+### 3.7. Lista de problemas
 
 Todas as falhas de comunicação, interações mal compreendidas ou erros de fluxo na narrativa dos Storyboards deverão ser catalogados e classificados conforme sua severidade. Isso facilita a tomada de decisão para os ajustes futuros.
 
-**Quadro 2 - Catálogo de Falhas na Interação Proposta**
+**Tabela 3 - Catálogo de Problemas Encontrados no Storyboard**
 
-| Localização no Storyboard | Detalhamento do Obstáculo | Grau de Severidade (1 a 4) | Ação Recomendada para o Reprojeto |
-|  :--- | :--- | :--- | :--- |
-| Quadro 3 (Tela de Educação Precoce) | A mãe da criança não compreendeu se o encaminhamento para o programa de Educação Precoce era automático via sistema ou se precisava ir presencialmente à Coordenação Regional de Ensino (CRE). | 3 (Obstáculo Maior) | Inserir um indicativo visual claro orientando o usuário a "Agendar triagem presencial na CRE" ou permitir anexar o laudo diretamente na plataforma. |
-| Quadro 5 (Formulário de Transporte Escolar Suplementar) | O responsável acreditou que a solicitação do transporte especial estava concluída no botão final, sem perceber a exigência obrigatória de assinar e anexar o "Termo de Adesão". | 4 (Crítico) | Adicionar um passo intermediário de bloqueio com o alerta: "Baixe, assine e anexe o Termo de Adesão para finalizar o seu pedido". |
+| ID | Contexto do Obstáculo | Detalhamento do Problema | Severidade | Ação para o Reprojeto |
+| :--- | :--- | :--- | :--- | :--- |
+| **01** | **Local:** Educação Precoce<br>**Afetou:** 01 (Maria) | Dúvida se o encaminhamento era automático via sistema ou se exigia ida presencial à CRE. | **3**<br>(Grave) | Inserir aviso claro para "Agendar triagem presencial" ou permitir anexar laudo na plataforma. |
+| **02** | **Local:** Transporte Escolar<br>**Afetou:** 01 (Maria) | Achou que o pedido concluía no botão final, ignorando a obrigatoriedade do "Termo de Adesão". | **4**<br>(Catastrófico) | Criar passo intermediário com alerta: "Baixe, assine e anexe o Termo para finalizar". |
 
-*Classificação de Severidade: (1) Estético; (2) Menor/Simples; (3) Maior/Importante; (4) Crítico (inviabiliza a tarefa).*
+*Nota: Grau de Severidade (Nielsen): 1 - Cosmético | 2 - Simples | 3 - Grave | 4 - Catastrófico.* 
 
 *Fonte: Elaborado por Luara Cristiana*
 
@@ -86,3 +87,4 @@ A modelagem deste roteiro de relato está estritamente alinhada com as recomenda
 | Versão | Data       | Descrição                                | Autor(es)          | Data de revisão   | Revisor(es) |
 | ------ | ---------- | ---------------------------------------- |--------------------| ------------------| ----------- |
 | `1.0`  | 19/05/2026 | Criação da página, inserção dos tópicos e bibliográfias       | [Luara Cristiana](https://github.com/luacristiana) | -- |    -- |
+| `1.1`  | 19/05/2026 | Alteração das tabelas       | [Luara Cristiana](https://github.com/luacristiana) | -- |    -- |
