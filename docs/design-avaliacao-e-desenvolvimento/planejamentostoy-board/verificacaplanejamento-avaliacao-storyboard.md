@@ -100,6 +100,11 @@ Posteriormente, os dados serão apresentados em forma de relatório, destacando 
 | Registro dos resultados | Grupo | 14/05/2026 |
 | Revisão do documento | Grupo | 14/05/2026 |
 
+## Storyboards Elaborados
+
+#### Transferência Escolar
+![Transferência Escolar](../../assets/storyboards/transferencia.jpeg)
+
 ## Planejamento do Teste Piloto
 
 De acordo com Barbosa e Silva (2021, p. 276), o teste-piloto serve para validar o próprio planejamento da pesquisa. Seu propósito é confirmar se o método escolhido realmente gera os dados necessários para responder às perguntas do estudo. Para que seja eficaz, o avaliador deve simular uma sessão real. Isso permite checar se a linguagem dos materiais e as instruções passadas aos participantes são claras, objetivas e suficientes para guiá-los adequadamente durante todo o processo.
