@@ -4,7 +4,7 @@
 
 Este documento apresenta o planejamento da avaliação dos storyboards produzidos pelo Grupo 06 no contexto da disciplina de Interação Humano-Computador (IHC), cujo objeto de estudo é o portal de serviços da Secretaria de Estado de Educação do Distrito Federal (SEEDF). O storyboard é um artefato de design de baixa fidelidade amplamente utilizado nas etapas iniciais do processo de desenvolvimento centrado no usuário: por meio de uma sequência de quadros desenhados, ele representa cenários de uso, as personas envolvidas, o contexto em que a interação ocorre e as ações que o usuário realiza para atingir um objetivo. Conforme Barbosa et al. (2021), o storyboard pertence ao grupo de métodos de prototipação em papel e serve para explorar e comunicar ideias de design antes que qualquer implementação seja realizada, sendo especialmente valioso por seu baixo custo e pela facilidade de iteração.
 
-A avaliação planejada neste documento tem como finalidade verificar se os storyboards elaborados pelo grupo comunicam, de maneira clara e consistente, o problema de usabilidade identificado, os usuários representados, o contexto de uso e a sequência lógica de ações. Os resultados desta avaliação alimentarão diretamente o documento de **Planejamento do Relato dos Resultados da Avaliação do Storyboard**, de responsabilidade de Luara Cristiana e Ígor Veras, que define os critérios de registro e análise dos dados coletados junto aos participantes — incluindo a estrutura de consolidação de problemas, os graus de severidade e as diretrizes de reprojeto.
+A avaliação planejada neste documento tem como finalidade verificar se os storyboards elaborados pelo grupo comunicam, de maneira clara e consistente, o problema de usabilidade identificado, os usuários representados, o contexto de uso e a sequência lógica de ações. Os resultados desta avaliação alimentarão diretamente o documento de **Planejamento do Relato dos Resultados da Avaliação do Storyboard**, que define os critérios de registro e análise dos dados coletados junto aos participantes — incluindo a estrutura de consolidação de problemas, os graus de severidade e as diretrizes de reprojeto.
 
 Para estruturar esta avaliação de maneira sistemática, adota-se o framework **DECIDE**, proposto por Sharp, Rogers e Preece (2007) e amplamente referenciado em Barbosa et al. (2021). O DECIDE organiza o planejamento de avaliações de IHC em seis etapas complementares, conforme descrito a seguir.
 
@@ -25,7 +25,7 @@ O objetivo central desta avaliação é verificar se os storyboards elaborados p
 
 De acordo com Barbosa et al. (2021, p. 264), ao avaliar storyboards, o avaliador deve investigar se o artefato transmite adequadamente a narrativa de uso e se os participantes conseguem compreender o fluxo representado sem ambiguidades. Nesse sentido, esta avaliação persegue três objetivos específicos:
 
-1. **Verificar a apropriação da tecnologia pelo usuário** — analisar se o storyboard retrata com fidelidade o perfil e o comportamento do usuário que utiliza os serviços da SEEDF, em especial nas funcionalidades de Transferência Escolar;
+1. **Verificar a apropriação da tecnologia pelo usuário** — analisar se o storyboard retrata com fidelidade o perfil e o comportamento do usuário que utiliza os serviços da SEEDF;
 2. **Identificar problemas na interação e na interface representada** — detectar inconsistências visuais, lacunas na sequência de cenas ou ambiguidades que comprometam a compreensão do fluxo de interação;
 3. **Avaliar a conformidade com as ideias de design** — verificar se a solução narrativa proposta no storyboard está alinhada com os princípios gerais e as metas de usabilidade definidos nas etapas anteriores do projeto.
 
@@ -116,11 +116,11 @@ A avaliação será conduzida em duas etapas sequenciais. Na primeira etapa, os 
 
 | Atividade                                    | Responsável                   | Data prevista |
 |----------------------------------------------|-------------------------------|---------------|
-| Definição dos critérios de avaliação         | Grupo                         | 14/05/2026    |
-| Aplicação da inspeção por percurso cognitivo | Grupo                         | 14/05/2026    |
-| Condução do teste piloto                     | Giulia Paulucci / Ígor Veras  | 14/05/2026    |
-| Registro e consolidação dos resultados       | Grupo                         | 14/05/2026    |
-| Revisão do documento                         | Grupo                         | 14/05/2026    |
+| Definição dos critérios de avaliação         | Grupo                         | 19/05/2026    |
+| Aplicação da inspeção por percurso cognitivo | Grupo                         | 24/05/2026    |
+| Condução do teste piloto                     | Giulia Paulucci / Ígor Veras  | 19/05/2026    |
+| Registro e consolidação dos resultados       | Grupo                         | 19/05/2026    |
+| Revisão do documento                         | Grupo                         | 20/05/2026    |
 
 ---
 
@@ -149,7 +149,7 @@ O storyboard de Transferência Escolar representa a jornada de um responsável l
 ![Storyboard - Transferência Escolar](../../assets/storyboards/transferencia.jpeg)
 
 **Figura 1:** Storyboard da funcionalidade de Transferência Escolar.  
-Autor: Giulia Paulucci.
+Autor: Ígor Veras.
 
 ---
 
