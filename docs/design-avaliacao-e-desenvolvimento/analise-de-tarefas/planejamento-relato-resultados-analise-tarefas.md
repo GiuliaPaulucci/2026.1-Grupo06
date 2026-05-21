@@ -353,7 +353,7 @@ expressa do participante;
 - caso o participante seja menor de idade, será necessária autorização do responsável
 legal.
 
-O TCLE completo pode ser encontrado na página de [Aspectos Éticos](aspectos-eticos.md) do projeto.
+O TCLE completo pode ser encontrado na página de [Aspectos Éticos](../../analise-de-requisitos/aspectos-eticos.md) do projeto.
 
 
 ## 11.1. Teste Piloto

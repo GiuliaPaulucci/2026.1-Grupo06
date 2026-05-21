@@ -13,7 +13,7 @@ A escolha do site foi motivada pela necessidade de avaliar a clareza e acessibil
 
 Além disso, páginas desse tipo frequentemente apresentam linguagem institucional e grande volume de informações, fatores que podem impactar diretamente a experiência do usuário.
 
-A escolha do site também está alinhada ao planejamento definido no [Processo de Design do projeto](../planejamento/processo-design.md), estruturado a partir do framework DECIDE e do ciclo de vida para Engenharia de Usabilidade de Mayhew[[1]](#FONTE1), garantindo coerência entre os objetivos da avaliação e o sistema analisado.
+A escolha do site também está alinhada ao planejamento definido no [Processo de Design do projeto](../../planejamento/processo-design.md), estruturado a partir do framework DECIDE e do ciclo de vida para Engenharia de Usabilidade de Mayhew[[1]](#FONTE1), garantindo coerência entre os objetivos da avaliação e o sistema analisado.
 
 ---
 
@@ -149,7 +149,7 @@ O termo informa que:
 
 Caso o participante seja menor de idade, será necessária autorização do responsável legal.
 
-nosso TCL pode ser encontrado na página [Aspectos Éticos](aspectos-eticos.md)
+nosso TCL pode ser encontrado na página [Aspectos Éticos](../../analise-de-requisitos/aspectos-eticos.md)
 
 ---
 
@@ -254,29 +254,29 @@ Os resultados do teste piloto não serão incorporados aos resultados finais da 
 ## Referências Bibliográficas
 
 ## <p id="FONTE1">1 - Fontes Processo de Mayhew.</p> 
-![Imagem Processo Mayhew](../assets/Imagens-livro/ProcessoDesign/Mayhew2.png)
+![Imagem Processo Mayhew](../../assets/Imagens-livro/ProcessoDesign/Mayhew2.png)
 
 Fonte: BARBOSA, Simone Diniz Junqueiro; SILVA, Bruno Santana da. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier: Campus, 2010 Página: 120,Capítulo 6
 
 ## <p id="FONTE2">2 - Livro: BARBOSA, Simone Diniz Junqueiro; SILVA, Bruno Santana da. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier: Campus, 2010.</p> 
 
 ## <p id="FONTE3">3 - Aspectos de avaliação.</p> 
-![alt text](image-1.png)
+![alt text](../../assets/aspectos-de-avaliacao.png)
 
 Fonte: BARBOSA, Simone Diniz Junqueiro; SILVA, Bruno Santana da. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier: Campus, 2010 Página: 264,Capítulo 11
 
 ## <p id="FONTE4">4 - Perguntas de interação e interface.</p> 
-![alt text](image.png)
+![alt text](../../assets/perguntas-interacao-interface.png)
 
 Fonte: BARBOSA, Simone Diniz Junqueiro; SILVA, Bruno Santana da. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier: Campus, 2010 Página: 266,Capítulo 11
 
 ## <p id="FONTE5">5 - Severidade do problema.</p> 
-![alt text](image-3.png)
+![alt text](../../assets/severidade-problema.png)
 
 Fonte: MACIEL, Cristiano; NOGUEIRA, José Luis T.; CIUFFO, Leandro Neumann; GARCIA, Ana Cristina Bicharra. Avaliação Heurística de Sítios na Web. Niterói: Instituto de Computação – UFF, 2004. Página 4, Tópico 2
 
 ## <p id="FONTE6">6 - Natureza do problema.</p> 
-![alt text](image-2.png)
+![alt text](../../assets/natureza-problema.png)
 
 Fonte: MACIEL, Cristiano; NOGUEIRA, José Luis T.; CIUFFO, Leandro Neumann; GARCIA, Ana Cristina Bicharra. Avaliação Heurística de Sítios na Web. Niterói: Instituto de Computação – UFF, 2004. Página 3, Tópico 2
 
